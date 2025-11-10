@@ -1,2 +1,27 @@
-﻿Detachment
-000000967
+﻿id,Pot,Pot Limit,Unit,Unit Limit,Dependent,Jointly dependent,Lose Rules,Gain Rules,Unit Size,Header
+967,1,2,3702,1,,,,,,You can include up to two of the following units (duplicates are not allowed):
+967,1,2,3703,1,,,,,,
+967,1,2,3704,1,,,,,,
+967,2,-1,413,3,,,,,[10],You can include up to three of the following unit:
+967,3,-1,414,3,413,,,,[1],"For each KROOT CARNIVORES unit you include, you can include up to one of each the following units:"
+967,3,-1,415,3,413,,,,[5],
+967,3,-1,2588,3,413,,,,[12],
+919,1,1,571,1,593,,,,,You can include up to one of the following units:
+919,1,1,572,1,594,,,,,
+919,1,1,573,1,595,,,,,
+919,1,1,574,1,596,,,,,
+919,1,1,575,1,600,,,,,
+919,1,1,576,1,607,,,,,
+919,1,1,577,1,,,,,,
+919,1,1,2759,1,,,,,,
+919,1,1,568,1,,,,,,
+919,1,1,582,1,,,,,,
+919,2,1,584,1,,,,,"[2, 4]",You can include up to one of the following units:
+919,2,1,585,1,,,,,,
+919,3,-1,593,1,,,,,"[5,10]",You can include up to one of each of the following units:
+919,3,-1,594,1,,,,,"[5,10]",
+919,3,-1,595,1,,,,,"[5,10]",
+919,3,-1,596,1,,,,,"[5,10]",
+919,4,1,600,1,,,,,"[5, 10]",You can include up to one of the following units:
+919,4,1,601,1,,,,,[5],
+919,5,1,607,1,,,,,,You can include up to one of the following unit:

@@ -3,10 +3,109 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Creating boarding Action list</title>
-    <link href= "{{ url_for('static', filename = 'styles/style.css')}}" rel = "stylesheet" />
+    <title>Boarding Actions</title>
+    <link href="{{ url_for('static', filename='style.css') }}" rel="stylesheet" />
 </head>
 <body>
-    <h1>Chose Detachment</h1>
+
+<h1>Choose Detachment</h1>
+
+<form id="detachment-form">
+    <select name="detachment" id="detachment-select">
+        {% for id, name in options %}
+            <option value="{{ id }}" {% if id|string == selected %}selected{% endif %}>{{ name }}</option>
+        {% endfor %}
+    </select>
+    <button type="submit">Submit</button>
+</form>
+
+<h2 id="selected-text">You selected: {{ selected }}</h2>
+
+<h1 style="text-align: left;">Units</h1>
+
+<div class="grid-container">
+    <div id="tables-container" class="column-container">
+        {% for header, table in tables %}
+            <h2>{{ header }}</h2>
+            <div style="display: flex; justify-content: flex-start;">
+                {{ table|safe }}
+            </div>
+        {% endfor %}
+    </div>
+
+    <!-- Second Container -->
+    <div id="selected-container" class="column-container">
+        <div>{{selected_Units |safe }}</div>
+    </div>
+</div>
+
+
+<script>
+//checks whether the submit button has been clicked 
+document.getElementById('detachment-form').addEventListener('submit', function(e) 
+{
+    e.preventDefault();  // Prevent full page reload
+    //extracts the selected value from the form
+    const formData = new FormData(this);
+    const selectedValue = document.getElementById('detachment-select').value;
+    //passes the form object to the get-tables flask route, which in turn calls the 
+    fetch('/get-tables', 
+    {
+        method: 'POST',
+        body: formData
+    })
+    //takes the response from falsk and converts it to html
+    //then updates the text in the tables-container to be the updated values
+    .then(response => response.text())
+    .then(html => 
+    {
+        document.getElementById('tables-container').innerHTML = html;
+        document.getElementById('selected-text').textContent = "You selected: " + selectedValue;
+    })
+    //clears the selected units as a new detachment has been selected
+    fetch('/clear-selected', 
+    {
+        method: 'POST',
+    })
+    .then(response => response.text())
+    .then(html => 
+    {
+        document.getElementById('selected-container').innerHTML = html;
+    })
+
+});
+
+// Function to update quantity when buttons are clicked
+
+function updateQuantity(element, action, rowName) {
+    // Find the quantity span based on the unique row name (ID in the span)
+    var quantitySpan = document.getElementById('quantity_' + rowName);
+    // Get the current quantity value
+    var currentValue = parseInt(quantitySpan.innerText.trim());
+
+    var row = element.closest("tr");  // Get the row containing the clicked button
+    var unitCell = row.cells[0];  // The first <td> contains the Unit ID (like '3702')
+    var unitValue = unitCell.innerText.trim();  // Get the unit value from the first cell (Unit column)
+    
+    var formData = new FormData();
+    formData.append('unit_id', unitValue)
+    formData.append('action', action)
+
+    fetch('/update-selected', 
+    {
+        method: 'POST',
+        body: formData
+    })
+    .then(response => response.json())
+    .then(data => 
+    {
+        document.getElementById('selected-container').innerHTML = data.table_html;
+        quantitySpan.innerText = data.newCount
+    })
+
+}
+
+</script>
+
 </body>
 </html>
