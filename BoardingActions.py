@@ -9,6 +9,9 @@ musteringRulesDF = pd.read_csv('CSVs\MusteringRules.csv')
 DetachmentsDF = pd.read_csv('csvs/DetachmentsDF.csv', sep = '|')
 DatasheetsDF = pd.read_csv('csvs/DatasheetsDF.csv', sep = '|')
 DataOptionsDF = pd.read_csv('csvs/DataOptionsDF.csv', sep = '|')
+DataUnitCompDF = pd.read_csv('csvs/DataUnitCompDF.csv', sep = '|')
+DataModelsDF = pd.read_csv('csvs/DataModelsDF.csv', sep = '|')
+DataWargearDF = pd.read_csv('csvs/DataWargearDF.csv', sep = '|')
 
 NameDict = DatasheetsDF[['id', 'name']].set_index('id').to_dict()['name']
 
@@ -101,5 +104,37 @@ def getSelected():
     return selected_Units.to_html(classes='data', index=False, border=0, escape = False)
 
 
-    
+testID = 413
+data = []
+#get the unit composition as a string
+krootDF = DatasheetsDF[DatasheetsDF['id'] == testID]
+UnitCompString =  krootDF['loadout'].iloc[0].replace('<b>', '').replace('</b>', '').replace('<br>', '').split('.')
+weaponsCols = ['range', 'type', 'A', 'BS_WS', 'S', 'AP', 'D']
+WeaponDict = DataWargearDF[DataWargearDF['datasheet_id'] == testID]
+krootDF = DataUnitCompDF[DataUnitCompDF['datasheet_id'] == testID] 
+for row, line in enumerate(krootDF['description']):
+    newRow = []
+    quantity = line.split(' ')[0]
+    modelName = line.replace(quantity+' ', '')
+    newRow.append(modelName)
+    #to add toggles for units with optional moiodel counts
+    if '-' not in quantity:
+        newRow.append(quantity)
+    else:
+        newRow.append(quantity)
+    weapons = UnitCompString[row].split(':')[-1].strip()
+    newRow.append(weapons)                  
+    weaponsList = weapons.split('; ')
+    weaponString = ''
+    for weapon in weaponsList:
+        print(weapon)
+        weaponString += str(WeaponDict[WeaponDict['name'] == weapon][weaponsCols]) + "; "
+    newRow.append(weaponString)
 
+    #append the colected data
+    data.append(newRow)
+    
+ 
+        
+        
+        
