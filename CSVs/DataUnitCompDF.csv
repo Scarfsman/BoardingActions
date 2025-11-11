@@ -1,0 +1,2104 @@
+|datasheet_id|line|description|Unnamed: 3
+0|1|1|1 Warboss|
+1|2|1|1 Warboss in Mega Armour|
+2|3|1|1 Warboss on Warbike|
+3|4|1|1 Weirdboy|
+4|6|1|1 Big Mek in Mega Armour|
+5|7|1|1 Big Mek on Warbike|
+6|8|1|1 Ghazghkull Thraka|
+7|8|2|1 Makari|
+8|9|1|1 Kaptin Badrukk|
+9|10|1|1 Boss Zagstruk|
+10|11|1|1 Boss Snikrot|
+11|12|1|1 Mek|
+12|13|1|1 Painboy|
+13|14|1|1 Painboy on Warbike|
+14|15|1|1 Mad Dok Grotsnik|
+15|16|1|1 Boss Nob|
+16|16|2|9-19 Boyz|
+17|17|1|1 Runtherd and 10 Gretchin|
+18|17|2|OR|
+19|17|3|2 Runtherds and 20 Gretchin|
+20|19|1|1-2 Spanners|
+21|19|2|4-8 Burna Boyz|
+22|20|1|1 Boss Nob|
+23|20|2|5 Tankbustas|
+24|21|1|1 Boss Nob|
+25|21|2|4-9 Nobz|
+26|22|1|1 Nob with Waaagh! Banner|
+27|23|1|3 Nobz on Warbikes|
+28|24|1|2-6 Meganobz|
+29|25|1|1 Boss Nob|
+30|25|2|9 Kommandos|
+31|26|1|1 Trukk|
+32|27|1|1 Boss Nob|
+33|27|2|4-9 Stormboyz|
+34|28|1|3-6 Deffkoptas|
+35|29|1|1 Dakkajet|
+36|30|1|1 Burna-bommer|
+37|31|1|1 Blitza-bommer|
+38|32|1|1 Wazbom Blastajet|
+39|33|1|1 Boss Nob on Warbike|
+40|33|2|2-5 Warbikers|
+41|34|1|1-2 Wartrakks|
+42|35|1|1-2 Skorchas|
+43|36|1|1-2 Warbuggies|
+44|37|1|1-2 Big Gunz|
+45|38|1|1-3 Mek Gunz|
+46|39|1|1 Battlewagon|
+47|40|1|1 Deff Dread|
+48|41|1|3-6 Killa Kans|
+49|42|1|1 Morkanaut|
+50|43|1|1 Gorkanaut|
+51|44|1|1-2 Spanners|
+52|44|2|4-8 Lootas|
+53|45|1|1 Kaptin|
+54|45|2|4-9 Flash Gitz|
+55|46|1|1 Stompa|
+56|49|1|4-8 Grot Tanks|
+57|50|1|1 Grot Mega-Tank|
+58|51|1|1 Squiggoth|
+59|52|1|1 Meka-Dread|
+60|53|1|1 Lifta Wagon|
+61|54|1|1 Big Trakk|
+62|55|1|1 Kannonwagon|
+63|56|1|1 Kill Tank|
+64|57|1|1 Chinork Warkopta|
+65|59|1|1 Gargantuan Squiggoth|
+66|60|1|1 Apothecary Biologis|
+67|61|1|1 Assault Sergeant|
+68|61|2|4-9 Assault Marines|
+69|63|1|1 Apothecary on Bike|
+70|64|1|1 Assault Sergeant with Jump Pack|
+71|64|2|4-9 Assault Marines with Jump Packs|
+72|65|1|1 Land Raider|
+73|66|1|1 Land Raider Crusader|
+74|67|1|1 Land Raider Excelsior|
+75|68|1|1 Suppressor Sergeant|
+76|68|2|2 Suppressors|
+77|70|1|1 Tactical Sergeant|
+78|70|2|9 Tactical Marines|
+79|71|1|1 Bladeguard Veteran Sergeant|
+80|71|2|2-5 Bladeguard Veterans|
+81|72|1|1 Caestus Assault Ram|
+82|73|1|1 Captain|
+83|76|1|1 Lieutenant with Combi-weapon|
+84|79|1|1 Librarian in Terminator Armour|
+85|81|1|1 Captain Sicarius|
+86|83|1|1 Captain with Jump Pack|
+87|84|1|1 Stormhawk Interceptor|
+88|85|1|1 Rhino Primaris|
+89|86|1|1-2 Firestrike Servo-turrets|
+90|87|1|1 Drop Pod|
+91|91|1|1 Ballistus Dreadnought|
+92|92|1|1 Sicaran Venator|
+93|93|1|1 Typhon|
+94|94|1|1 Chaplain on Bike|
+95|95|1|1 Chapter Champion|
+96|95|2|1 Ancient|
+97|95|3|2 Honour Guard|
+98|96|1|1 Carab Culln the Risen|
+99|97|1|1 Hammerfall Bunker|
+100|98|1|1 Tarantula Sentry Battery|
+101|99|1|1 Tarantula Air Defence Battery|
+102|103|1|1 Eradicator Sergeant|
+103|103|2|2-5 Eradicators|
+104|104|1|1 Relic Terminator Sergeant|
+105|104|2|4-9 Relic Terminators|
+106|107|1|1 Javelin Attack Speeder|
+107|110|1|1 Rapier Carrier|
+108|111|1|1 Mortis Dreadnought|
+109|112|1|1 Chaplain with Jump Pack|
+110|113|1|1 Storm Eagle Gunship|
+111|114|1|1 Storm Speeder Hammerstrike|
+112|115|1|1 Chaplain in Terminator Armour|
+113|116|1|1 Biker Sergeant|
+114|116|2|2-5 Space Marine Bikers|
+115|116|3|0-1 Attack Bike|
+116|117|1|1 Dreadnought|
+117|118|1|1 Assault Terminator Sergeant|
+118|118|2|4-9 Assault Terminators|
+119|119|1|1 Librarian in Phobos Armour|
+120|120|1|1 Venerable Dreadnought|
+121|121|1|1 Uriel Ventris|
+122|122|1|1 Dreadnought Drop Pod|
+123|123|1|1 Sicaran Punisher|
+124|124|1|1 Storm Speeder Hailstrike|
+125|125|1|1 Inceptor Sergeant|
+126|125|2|2-5 Inceptors|
+127|126|1|1 Infernus Sergeant|
+128|126|2|4-9 Infernus Marines|
+129|127|1|1 Iron Father Feirros|
+130|128|1|1 Infiltrator Sergeant|
+131|128|2|4-9 Infiltrators|
+132|129|1|1 Razorback|
+133|131|1|1 Leviathan Dreadnought|
+134|132|1|1 Land Speeder Storm|
+135|134|1|4 Astartes Servitors|
+136|135|1|1 Captain in Terminator Armour|
+137|136|1|1 Brutalis Dreadnought|
+138|137|1|1 Scout Biker Sergeant|
+139|137|2|2-5 Scout Bikers|
+140|138|1|1 Roboute Guilliman|
+141|139|1|1 Thunderhawk Gunship|
+142|140|1|1 Techmarine|
+143|146|1|1 Hunter|
+144|147|1|1 Vanguard Veteran Sergeant with Jump Pack|
+145|147|2|4-9 Vanguard Veterans with Jump Packs|
+146|148|1|1 Imperial Space Marine|
+147|151|1|1 Commander Dante|
+148|152|1|1 Captain Tycho|
+149|153|1|1 Tycho the Lost|
+150|154|1|1 Librarian Dreadnought|
+151|155|1|1 Chief Librarian Mephiston|
+152|156|1|1 The Sanguinor|
+153|157|1|1 Astorath|
+154|158|1|1 Sanguinary Priest|
+155|159|1|1 Sanguinary Priest on Bike|
+156|160|1|1 Brother Corbulo|
+157|164|1|1 Lemartes|
+158|165|1|3-6 Sanguinary Guard|
+159|166|1|1 Death Company Dreadnought|
+160|167|1|1 Furioso Dreadnought|
+161|168|1|1 Baal Predator|
+162|169|1|1 Gabriel Seth|
+163|218|1|1 Azrael|
+164|219|1|1 Belial|
+165|225|1|1 Asmodai|
+166|226|1|1 Ezekiel|
+167|230|1|1 Deathwing Sergeant|
+168|230|2|4-9 Deathwing Terminators|
+169|231|1|1 Knight Master|
+170|231|2|4 Deathwing Knights|
+171|238|1|1 Ravenwing Darkshroud|
+172|239|1|1 Nephilim Jetfighter|
+173|240|1|1 Ravenwing Dark Talon|
+174|241|1|1 Ravenwing Huntmaster|
+175|241|2|2-5 Ravenwing Black Knights|
+176|242|1|1 Land Speeder Vengeance|
+177|243|1|1 Fortress of Redemption|
+178|282|1|1 Logan Grimnar|
+179|283|1|1 Logan Grimnar on Stormrider|
+180|284|1|1 Wolf Lord on Thunderwolf|
+181|285|1|1 Ragnar Blackmane|
+182|286|1|1 Krom Dragongaze|
+183|287|1|1 Harald Deathwolf|
+184|288|1|1 Canis Wolfborn|
+185|292|1|1 Njal Stormcaller|
+186|297|1|1 Ulrik the Slayer|
+187|300|1|1 Wolf Guard Battle Leader in Terminator Armour|
+188|301|1|1 Wolf Guard Battle Leader on Thunderworlf|
+189|302|1|"1 Bjorn the Fell-Handed– <span class=""kwb"">EPIC</span> <span class=""kwb"">HERO</span>"|
+190|303|1|1 Blood Claw Pack Leader|
+191|303|2|9-19 Blood Claws|
+192|304|1|1 Lukas the Trickster|
+193|305|1|1 Grey Hunter Pack Leader|
+194|305|2|9 Grey Hunters|
+195|306|1|1 Iron Priest|
+196|308|1|1 Iron Priest on Thunderwolf|
+197|310|1|1 Wolf Scout Pack Leader|
+198|310|2|4-9 Wolf Scouts|
+199|311|1|5-10 Wulfen|
+200|314|1|1 Murderfang|
+201|315|1|1 Wolf Guard Pack Leader|
+202|315|2|4-9 Wolf Guard|
+203|317|1|1 Arjac Rockfist|
+204|318|1|1 Wolf Guard Terminator Pack Leader|
+205|318|2|4-9 Wolf Guard Terminators|
+206|321|1|1 Stormwolf|
+207|322|1|1 Thunderwolf Cavalry Pack Leader|
+208|322|2|2-5 Thunderwolf Cavalry|
+209|323|1|5-10 Fenrisian Wolves|
+210|324|1|1 Skyclaw Pack Leader|
+211|324|2|4-14 Skyclaws|
+212|325|1|1 Stormfang Gunship|
+213|326|1|1 Long Fang Pack Leader|
+214|326|2|4-5 Long Fangs|
+215|358|1|1 Corvus Blackstar|
+216|373|1|1 Kaldor Draigo|
+217|374|1|1 Grand Master Voldus|
+218|375|1|1 Grand Master|
+219|376|1|1 Brother-Captain|
+220|377|1|1 Brother-Captain Stern|
+221|379|1|1 Brotherhood Champion|
+222|380|1|1 Castellan Crowe|
+223|381|1|1 Justicar|
+224|381|2|4-9 Grey Knights|
+225|382|1|1 Justicar|
+226|382|2|3-9 Terminators|
+227|383|1|1 Knight of the Flame|
+228|383|2|4-9 Purifiers|
+229|384|1|1 Paragon|
+230|384|2|3-9 Paladins|
+231|387|1|1 Interceptor Justicar|
+232|387|2|4-9 Interceptors|
+233|388|1|1 Purgator Justicar|
+234|388|2|4-9 Purgators|
+235|389|1|1 Nemesis Dreadknight|
+236|390|1|1 Grey Knights Dreadnought|
+237|391|1|1 Land Raider|
+238|392|1|1 Land Raider Crusader|
+239|393|1|1 Land Raider Redeemer|
+240|395|1|1 Razorback|
+241|396|1|1 Rhino|
+242|397|1|4 Servitors|
+243|398|1|1 Stormraven Gunship|
+244|399|1|1 Brotherhood Techmarine|
+245|400|1|1 Venerable Dreadnought|
+246|402|1|1 Commander in Coldstar Battlesuit|
+247|403|1|4-12 Tactical Drones|
+248|404|1|1 Ethereal|
+249|405|1|1 Cadre Fireblade|
+250|406|1|1 Commander Farsight|
+251|407|1|1 Commander Shadowsun|
+252|408|1|1 Aun’Shi|
+253|409|1|1 Aun’Va|
+254|409|2|2 Ethereal Guards|
+255|410|1|1 Darkstrider|
+256|411|1|1 Fire Warrior Shas’ui|
+257|411|2|9 Fire Warriors|
+258|412|1|1 Breacher Fire Warrior Shas’ui|
+259|412|2|9 Breacher Fire Warriors|
+260|413|1|1 Long-quill|
+261|413|2|9-19 Kroot Carnivores|
+262|414|1|1-3 Krootox Riders|
+263|415|1|5-10 Kroot Hounds|
+264|417|1|1 Stealth Shas’vre|
+265|417|2|2-5 Stealth Shas’ui|
+266|418|1|1 Crisis Shas’vre|
+267|418|2|2-5 Crisis Shas’ui|
+268|420|1|1 Ghostkeel Battlesuit|
+269|421|1|1 Riptide Battlesuit|
+270|422|1|1 Pathfinder Shas’ui|
+271|422|2|9 Pathfinders|
+272|423|1|1-3 Piranhas|
+273|424|1|1 Devilfish|
+274|425|1|1 Razorshark Strike Fighter|
+275|426|1|1 Sun Shark Bomber|
+276|427|1|1 Vespid Strain Leader|
+277|427|2|4-9 Vespid Stingwings|
+278|428|1|1 Firesight Marksman|
+279|430|1|1 Sky Ray Gunship|
+280|431|1|1 Longstrike|
+281|432|1|1 Hammerhead Gunship|
+282|433|1|1 Broadside Shas’vre|
+283|433|2|0-2 Broadside Shas’ui|
+284|434|1|1 Stormsurge|
+285|435|1|1 Tidewall Droneport|
+286|436|1|1 Tidewall Shieldline|
+287|437|1|1 Tidewall Gunrig|
+288|439|1|1 Shas'o R'alai|
+289|443|1|1-2 XV9 Hazard Battlesuits|
+290|444|1|1 Y’vahra Battlesuit|
+291|445|1|1 R’varna Battlesuit|
+292|446|1|1 Ta’unar Supremacy Armour|
+293|447|1|2-4 Tetras|
+294|448|1|1 TX42 Piranha|
+295|449|1|2 Heavy Gun Drones|
+296|452|1|2 Remora Stealth Drones|
+297|453|1|1 Barracuda|
+298|454|1|1 Tiger Shark|
+299|455|1|1 AX-1-0 Tiger Shark|
+300|456|1|1 Orca Dropship|
+301|457|1|1 Manta|
+302|458|1|1 Remote Sensor Tower|
+303|459|1|1 Drone Sentry Turret|
+304|460|1|1 Hive Tyrant|
+305|461|1|1 Swarmlord|
+306|462|1|1 Old One Eye|
+307|463|1|1 Broodlord|
+308|465|1|1 Tervigon|
+309|467|1|5-10 Genestealers|
+310|468|1|10-20 Termagants|
+311|469|1|10-20 Hormagaunts|
+312|470|1|1-3 Ripper Swarms|
+313|471|1|3-6 Tyrant Guard|
+314|472|1|3-6 Hive Guard|
+315|473|1|1 Lictor|
+316|474|1|1 Maleceptor|
+317|475|1|1 Neurothrope|
+318|475|2|2-5 Zoanthropes|
+319|476|1|3-6 Venomthropes|
+320|477|1|1-3 Pyrovores|
+321|478|1|1 Haruspex|
+322|479|1|1 Deathleaper|
+323|482|1|5 Raveners|
+324|483|1|3 Sky-slasher Swarms|
+325|484|1|10-20 Gargoyles|
+326|485|1|1 Harpy|
+327|486|1|1 Hive Crone|
+328|487|1|1-2 Mucolid Spores|
+329|488|1|3-6 Spore Mines|
+330|489|1|1 Tyrannocyte|
+331|490|1|1-2 Carnifexes|
+332|491|1|1-3 Biovores|
+333|493|1|1 Trygon|
+334|494|1|1 Mawloc|
+335|495|1|1 Exocrine|
+336|496|1|1 Tyrannofex|
+337|497|1|1 Toxicrene|
+338|498|1|1 Sporocyst|
+339|499|1|1 Malanthrope|
+340|500|1|1 Dimachaeron|
+341|503|1|1 Barbed Hierodule|
+342|504|1|1 Harridan|
+343|505|1|1 Hierophant|
+344|506|1|1 Scythed Hierodule|
+345|507|1|1 Patriarch|
+346|508|1|1 Magus|
+347|509|1|1 Primus|
+348|510|1|1 Acolyte Iconward|
+349|511|1|1 Acolyte Leader|
+350|511|2|4-9 Acolyte Hybrids|
+351|512|1|1 Neophyte Leader|
+352|512|2|9-19 Neophyte Hybrids|
+353|513|1|1 Metamorph Leader|
+354|513|2|4-9 Hybrid Metamorphs|
+355|514|1|1 Aberrant Hypermorph|
+356|514|2|4-9 Aberrants|
+357|515|1|5-10 Purestrain Genestealers|
+358|516|1|1 Goliath Truck|
+359|521|1|1 Goliath Rockgrinder|
+360|522|1|1 Imotekh the Stormlord|
+361|523|1|1 Overlord|
+362|524|1|1 Lord|
+363|527|1|1 Nemesor Zahndrekh|
+364|528|1|1 Vargard Obyron|
+365|530|1|1 Orikan the Diviner|
+366|531|1|1 Anrakyr the Traveller|
+367|532|1|1 Trazyn the Infinite|
+368|533|1|1 Catacomb Command Barge|
+369|534|1|10-20 Necron Warriors|
+370|535|1|5-10 Immortals|
+371|536|1|5-10 Lychguard|
+372|537|1|5-10 Deathmarks|
+373|538|1|5-10 Flayed Ones|
+374|539|1|5-10 Triarch Praetorians|
+375|540|1|1 Triarch Stalker|
+376|541|1|1 C’tan Shard of the Nightbringer|
+377|542|1|1 C’tan Shard of the Deceiver|
+378|543|1|1 Ghost Ark|
+379|544|1|1 Night Scythe|
+380|545|1|1 Doom Scythe|
+381|546|1|3-6 Canoptek Wraiths|
+382|548|1|3-6 Tomb Blades|
+383|551|1|1-2 Canoptek Spyders|
+384|552|1|1 Monolith|
+385|553|1|1 Annihilation Barge|
+386|554|1|1 Doomsday Ark|
+387|555|1|1 Transcendent C’tan|
+388|556|1|1 Tesseract Vault|
+389|557|1|1 Obelisk|
+390|558|1|1 Canoptek Tomb Stalker|
+391|559|1|3-6 Canoptek Acanthrites|
+392|560|1|1 Canoptek Tomb Sentinel|
+393|561|1|1 Night Shroud|
+394|562|1|1 Sentry Pylon|
+395|564|1|1 Tesseract Ark|
+396|567|1|1 Gauss Pylon|
+397|568|1|1 Eldrad Ulthran|
+398|569|1|1 Prince Yriel|
+399|570|1|1 Illic Nightspear|
+400|571|1|1 Asurmen|
+401|572|1|1 Jain Zar|
+402|573|1|1 Karandras|
+403|574|1|1 Fuegan|
+404|575|1|1 Baharroth|
+405|576|1|1 Maugan Ra|
+406|577|1|1 Autarch|
+407|580|1|1 Autarch Skyrunner|
+408|581|1|1 Avatar of Khaine|
+409|582|1|1 Farseer|
+410|583|1|1 Farseer Skyrunner|
+411|584|1|2-4 Warlocks|
+412|585|1|1 Warlock|
+413|587|1|1-2 Warlock Skyrunners|
+414|588|1|1 Spiritseer|
+415|589|1|10 Guardian Defenders|
+416|589|2|1 Heavy Weapon Platform|
+417|590|1|10 Storm Guardians|
+418|590|2|1 Serpent’s Scale Platform|
+419|591|1|3-6 Windriders|
+420|592|1|5-10 Rangers|
+421|593|1|1 Dire Avenger Exarch|
+422|593|2|4-9 Dire Avengers|
+423|594|1|1 Howling Banshee Exarch|
+424|594|2|4-9 Howling Banshees|
+425|595|1|1 Striking Scorpion Exarch|
+426|595|2|4-9 Striking Scorpions|
+427|596|1|1 Fire Dragon Exarch|
+428|596|2|4-9 Fire Dragons|
+429|597|1|5 Wraithguard|
+430|598|1|5 Wraithblades|
+431|599|1|1 Wave Serpent|
+432|600|1|1 Swooping Hawk Exarch|
+433|600|2|4-9 Swooping Hawks|
+434|601|1|1 Warp Spider Exarch|
+435|601|2|4-9 Warp Spiders|
+436|602|1|1 Shining Spear Exarch|
+437|602|2|2-5 Shining Spears|
+438|603|1|1 Crimson Hunter|
+439|605|1|1-2 Vypers|
+440|606|1|1 Hemlock Wraithfighter|
+441|607|1|1 Dark Reaper Exarch|
+442|607|2|4-9 Dark Reapers|
+443|609|1|1 Falcon|
+444|610|1|1 Fire Prism|
+445|611|1|1 Night Spinner|
+446|612|1|1-2 War Walkers|
+447|613|1|1 Wraithlord|
+448|614|1|1 Wraithknight|
+449|615|1|0-1 Shadow Spectre Exarch|
+450|615|2|5-10 Shadow Spectres|
+451|616|1|1 Wasp Assault Walker|
+452|617|1|1 Wraithseer|
+453|618|1|1 Hornet|
+454|619|1|1 Warp Hunter|
+455|620|1|1 Lynx|
+456|621|1|1 Scorpion|
+457|622|1|1 Cobra|
+458|623|1|1 Nightwing|
+459|624|1|1 Phoenix|
+460|625|1|1 Vampire Raider|
+461|626|1|1 Vampire Hunter|
+462|627|1|1 Skathach Wraithknight|
+463|628|1|1 Revenant Titan|
+464|629|1|0-1 Cloud Dancer Felarch|
+465|629|2|3-6 Corsair Cloud Dancers|
+466|630|1|1 Irillyth|
+467|631|1|1 Phantom Titan|
+468|632|1|0-1 Corsair Reaver Felarch|
+469|632|2|5-10 Corsair Reavers|
+470|633|1|0-1 Corsair Skyreaver Felarch|
+471|633|2|5-10 Corsair Skyreavers|
+472|634|1|1 Archon|
+473|639|1|1 Succubus|
+474|640|1|1 Lelith Hesperax|
+475|641|1|1 Haemonculus|
+476|642|1|1 Urien Rakarth|
+477|643|1|1 Drazhar|
+478|644|1|1 Sybarite|
+479|644|2|9 Kabalite Warriors|
+480|646|1|1 Hekatrix|
+481|646|2|9 Wyches|
+482|648|1|1 Klaivex|
+483|648|2|4-9 Incubi|
+484|649|1|1 Nightfiend|
+485|649|2|4-9 Mandrakes|
+486|650|1|1 Acothyst|
+487|650|2|4-9 Wracks|
+488|651|1|3-6 Grotesques|
+489|652|1|1 Beastmaster|
+490|652|2|1 Clawed Fiends|
+491|652|3|2 Khymerae|
+492|652|4|3 Razorwing Flocks|
+493|656|1|1 Raider|
+494|657|1|1 Venom|
+495|658|1|1 Arena Champion|
+496|658|2|2-5 Reavers|
+497|659|1|1 Helliarch|
+498|659|2|4-9 Hellions|
+499|660|1|1 Razorwing Jetfighter|
+500|661|1|1 Voidraven Bomber|
+501|662|1|1 Solarite|
+502|662|2|4 Scourges|
+503|663|1|1-2 Talos|
+504|664|1|1-2 Cronos|
+505|665|1|1 Ravager|
+506|666|1|1 Reaper|
+507|667|1|1 Tantalus|
+508|680|1|1 Leman Russ Commander|
+509|686|1|3 Heavy Weapons Teams|
+510|690|1|1-2 Scout Sentinels|
+511|691|1|1-2 Armoured Sentinels|
+512|692|1|1 Chimera|
+513|693|1|1 Taurox|
+514|694|1|1 Hellhound|
+515|695|1|1 Basilisk|
+516|696|1|1 Hydra|
+517|697|1|1 Wyvern|
+518|698|1|1 Manticore|
+519|699|1|1 Deathstrike|
+520|700|1|1 Leman Russ Battle Tank|
+521|701|1|1 Leman Russ Demolisher|
+522|702|1|1 Baneblade|
+523|703|1|1 Banehammer|
+524|704|1|1 Banesword|
+525|705|1|1 Doomhammer|
+526|706|1|1 Hellhammer|
+527|707|1|1 Shadowsword|
+528|708|1|1 Stormlord|
+529|709|1|1 Stormsword|
+530|713|1|1 ‘Iron Hand’ Straken|
+531|714|1|1 Sergeant Harker|
+532|716|1|1 Commissar|
+533|719|1|1 Tempestor Prime|
+534|719|2|4 Tempestus Scions|
+535|721|1|1 Taurox Prime|
+536|722|1|1 Ogryn Bone ‘ead|
+537|722|2|2-5 Ogryns|
+538|723|1|1 Bullgryn Bone ‘ead|
+539|723|2|2-5 Bullgryns|
+540|724|1|5-10 Ratlings|
+541|725|1|1 Nork Deddog|
+542|727|1|1 Valkyrie|
+543|728|1|1 Atlas Recovery Vehicle|
+544|729|1|1 Salamander Command Vehicle|
+545|730|1|1 Hades Breaching Drill|
+546|731|1|1 Centaur Light Carrier|
+547|733|1|1 Trojan Support Vehicle|
+548|735|1|1 Salamander Scout Vehicle|
+549|736|1|1 Tauros Assault Vehicle|
+550|737|1|1 Tauros Venator|
+551|739|1|1 Armageddon-pattern Medusa|
+552|740|1|1 Colossus|
+553|741|1|1 Cyclops Demolition Vehicle|
+554|743|1|1 Earthshaker Carriage|
+555|744|1|1 Griffon Mortar Carrier|
+556|745|1|1 Heavy Mortar Team|
+557|746|1|1 Heavy Quad Launcher Team|
+558|747|1|1 Hydra Platform|
+559|751|1|1 Malcador Annihilator|
+560|752|1|1 Malcador Defender|
+561|753|1|1 Malcador|
+562|754|1|1 Malcador Infernus|
+563|755|1|1 Manticore Platform|
+564|756|1|1 Medusa Carriage|
+565|757|1|1-3 Rapier Laser Destroyers|
+566|758|1|1-2 Sabre Gun Platforms|
+567|759|1|1 Sentinel Powerlifter|
+568|760|1|1 Stygies Destroyer Tank Hunter|
+569|762|1|1-3 Tarantula Sentry Guns|
+570|763|1|1 Stormblade|
+571|764|1|1 Arkurian Stormhammer|
+572|766|1|1 Crassus|
+573|767|1|1 Dominus Armoured Siege Bombard|
+574|768|1|1 Gorgon Heavy Transport|
+575|769|1|1 Macharius|
+576|770|1|1 Macharius Omega|
+577|771|1|1 Macharius Vanquisher|
+578|772|1|1 Macharius Vulcan|
+579|773|1|1 Marauder Bomber|
+580|774|1|1 Marauder Destroyer|
+581|775|1|1 Minotaur|
+582|776|1|1 Praetor|
+583|777|1|1 Valdor|
+584|778|1|1 Aquila Lander|
+585|779|1|1 Arvus Lighter|
+586|780|1|1 Avenger Strike Fighter|
+587|781|1|1 Voss-pattern Lightning|
+588|783|1|1 Vendetta Gunship|
+589|784|1|1 Vulture Gunship|
+590|785|1|1 Imperial Fortress Walls (1 gate section, 2 gate tower sections, 2 tower sections and 2 wall sections)|
+591|786|1|1 Primaris Redoubt|
+592|838|1|1 Belisarius Cawl|
+593|839|1|1 Tech-Priest Dominus|
+594|840|1|1 Tech-Priest Enginseer|
+595|841|1|3-6 Kataphron Breachers|
+596|842|1|3-6 Kataphron Destroyers|
+597|843|1|5-10 Fulgurite Electro-Priests|
+598|844|1|5-10 Corpuscarii Electro-Priests|
+599|845|1|2-4 Kastelan Robots|
+600|846|1|1 Cybernetica Datasmith|
+601|847|1|4 Servitors|
+602|848|1|1 Skitarii Ranger Alpha|
+603|848|2|9 Skitarii Rangers|
+604|849|1|1 Skitarii Vanguard Alpha|
+605|849|2|9 Skitarii Vanguard|
+606|850|1|1 Sicarian Infiltrator Princeps|
+607|850|2|4-9 Sicarian Infiltrators|
+608|851|1|1 Sicarian Ruststalker Princeps|
+609|851|2|4-9 Sicarian Ruststalkers|
+610|852|1|1-3 Ironstrider Ballistarii|
+611|853|1|1-3 Sydonian Dragoons|
+612|854|1|1 Onager Dunecrawler|
+613|855|1|1 Knight Paladin|
+614|856|1|1 Knight Errant|
+615|857|1|1 Knight Warden|
+616|858|1|1 Knight Gallant|
+617|859|1|1 Knight Crusader|
+618|860|1|1 Acastus Knight Porphyrion|
+619|861|1|1 Cerastus Knight Acheron|
+620|862|1|1 Cerastus Knight Atrapos|
+621|863|1|1 Cerastus Knight Castigator|
+622|864|1|1 Cerastus Knight Lancer|
+623|865|1|1 Questoris Knight Magaera|
+624|866|1|1 Questoris Knight Styrix|
+625|867|1|1 Warhound Titan|
+626|868|1|1 Reaver Titan|
+627|869|1|1 Warlord Titan|
+628|870|1|1 Vindicare Assassin|
+629|871|1|1 Callidus Assassin|
+630|872|1|1 Eversor Assassin|
+631|873|1|1 Culexus Assassin|
+632|874|1|1 Inquisitor Greyfax|
+633|875|1|1 Inquisitor Karamazov|
+634|876|1|1 Inquisitor Coteaz|
+635|877|1|1 Inquisitor|
+636|882|1|4-5 Custodian Guard|
+637|883|1|1 Venerable Contemptor Dreadnought|
+638|884|1|1 Venerable Land Raider|
+639|889|1|1 Primaris Psyker|
+640|894|1|2-4 Crusaders|
+641|895|1|2-4 Death Cult Assassins|
+642|896|1|3-10 Arco-flagellants|
+643|897|1|1-2 Penitent Engines|
+644|898|1|1 Celestine|
+645|898|2|2 Geminae Superia|
+646|899|1|1 Canoness|
+647|900|1|1 Imagifier|
+648|901|1|1 Hospitaller|
+649|902|1|1 Dialogus|
+650|903|1|1 Sister Superior|
+651|903|2|9 Battle Sisters|
+652|904|1|1 Seraphim Superior|
+653|904|2|4-9 Seraphim|
+654|907|1|1 Repentia Superior|
+655|907|2|4-9 Sisters Repentia|
+656|908|1|1 Retributor Superior|
+657|908|2|4 Retributors|
+658|909|1|1 Dominion Superior|
+659|909|2|9 Dominions|
+660|910|1|1 Sororitas Rhino|
+661|911|1|1 Immolator|
+662|912|1|1 Exorcist|
+663|914|1|1 Bastion|
+664|917|1|1 Vengeance Weapon Battery|
+665|918|1|1 Firestorm Redoubt|
+666|919|1|1 Plasma Obliterator|
+667|920|1|1 Macro-cannon Aquila Strongpoint|
+668|921|1|1 Vortex Missile Strongpoint|
+669|922|1|1 Void Shield Generator|
+670|923|1|1 Skyshield Landing Pad|
+671|924|1|1 Abaddon the Despoiler|
+672|925|1|1 Huron Blackheart|
+673|926|1|1 Cypher|
+674|928|1|1 Fabius Bile|
+675|928|2|1 Surgeon Acolyte|
+676|929|1|1 Chaos Lord|
+677|930|1|1 Chaos Lord in Terminator Armour|
+678|931|1|1 Chaos Lord on Bike|
+679|932|1|1 Chaos Lord on Juggernaut|
+680|933|1|1 Chaos Lord on Disc of Tzeentch|
+681|934|1|1 Chaos Lord on Palanquin of Nurgle|
+682|935|1|1 Chaos Lord on Steed of Slaanesh|
+683|936|1|1 Dark Apostle|
+684|936|2|2 Dark Disciples|
+685|937|1|1 Heretic Astartes Daemon Prince|
+686|938|1|1 Sorcerer|
+687|939|1|1 Sorcerer in Terminator Armour|
+688|940|1|1 Sorcerer on Bike|
+689|941|1|1 Sorcerer on Disc of Tzeentch|
+690|942|1|1 Sorcerer on Palanquin of Nurgle|
+691|943|1|1 Sorcerer on Steed of Slaanesh|
+692|944|1|1 Warpsmith|
+693|946|1|1 Cultist Champion|
+694|946|2|9-19 Chaos Cultists|
+695|947|1|1 Terminator Champion|
+696|947|2|4-9 Chaos Terminators|
+697|952|1|1 Chosen Champion|
+698|952|2|4-9 Chosen|
+699|953|1|1 Possessed Champion|
+700|953|2|4-9 Possessed|
+701|954|1|1 Helbrute|
+702|955|1|3 Mutilators|
+703|956|1|1 Chaos Rhino|
+704|957|1|1 Biker Champion|
+705|957|2|2-5 Chaos Bikers|
+706|958|1|1 Raptor Champion|
+707|958|2|4-9 Raptors|
+708|959|1|1 Warp Talon Champion|
+709|959|2|4-9 Warp Talons|
+710|960|1|2 Chaos Spawn|
+711|961|1|1 Heldrake|
+712|962|1|1 Chaos Land Raider|
+713|963|1|1 Chaos Predator Destructor|
+714|964|1|1 Chaos Vindicator|
+715|965|1|2 Obliterators|
+716|966|1|1 Havoc Champion|
+717|966|2|4 Havocs|
+718|967|1|1 Forgefiend|
+719|968|1|1 Maulerfiend|
+720|969|1|1 Defiler|
+721|970|1|1 Khorne Lord of Skulls|
+722|1016|1|1 Sorcerer|
+723|1017|1|1 Sorcerer In Terminator Armour|
+724|1020|1|1 Aspiring Sorcerer|
+725|1020|2|4-9 Rubric Marines|
+726|1021|1|1 Helbrute|
+727|1022|1|1 Chaos Rhino|
+728|1023|1|2 Chaos Spawn|
+729|1024|1|1 Heldrake|
+730|1025|1|1 Chaos Land Raider|
+731|1026|1|1 Chaos Predator Destructor|
+732|1027|1|1 Chaos Vindicator|
+733|1028|1|1 Forgefiend|
+734|1029|1|1 Maulerfiend|
+735|1030|1|1 Defiler|
+736|1031|1|1 Magnus the Red|
+737|1032|1|1 Ahriman|
+738|1033|1|1 Exalted Sorcerer|
+739|1034|1|1 Twistbray|
+740|1034|2|9-19 Tzaangors|
+741|1035|1|1 Scarab Occult Sorcerer|
+742|1035|2|4-9 Scarab Occult Terminators|
+743|1036|1|1 Daemon Prince of Tzeentch|
+744|1037|1|1 Death Guard Chaos Lord|
+745|1038|1|1 Death Guard Chaos Lord in Terminator Armour|
+746|1041|1|1 Death Guard Sorcerer in Terminator Armour|
+747|1043|1|1 Death Guard Cultist Champion|
+748|1043|2|9-19 Death Guard Cultists|
+749|1044|1|1 Plague Champion|
+750|1044|2|4-9 Plague Marines|
+751|1045|1|1 Possessed Champion|
+752|1045|2|4-9 Possessed|
+753|1046|1|1 Helbrute|
+754|1047|1|1 Chaos Rhino|
+755|1048|1|2 Chaos Spawn|
+756|1049|1|1 Chaos Land Raider|
+757|1050|1|1 Chaos Predator Annihilator|
+758|1051|1|1 Defiler|
+759|1052|1|1 Daemon Prince of Nurgle|
+760|1053|1|1 Typhus|
+761|1054|1|1 Lord of Contagion|
+762|1055|1|1 Malignant Plaguecaster|
+763|1056|1|10-20 Poxwalkers|
+764|1057|1|1 Foetid Bloat-drone|
+765|1058|1|1 Noxious Blightbringer|
+766|1094|1|1 Chaos Cerastus Knight Acheron|
+767|1095|1|1 Chaos Cerastus Knight Lancer|
+768|1096|1|1 Chaos Cerastus Knight Castigator|
+769|1097|1|1 Chaos Cerastus Knight Atrapos|
+770|1098|1|1 Chaos Questoris Knight Magaera|
+771|1099|1|1 Chaos Acastus Knight Porphyrion|
+772|1100|1|1 Chaos Questoris Knight Styrix|
+773|1104|1|1 Karanak|
+774|1105|1|1 Skarbrand|
+775|1106|1|1 Skulltaker|
+776|1111|1|1 Rendmaster on Blood Throne|
+777|1112|1|1 Gore Hound|
+778|1112|2|4-9 Flesh Hounds|
+779|1114|1|1 Bloodreaper|
+780|1114|2|9 Bloodletters|
+781|1115|1|1 Bloodhunter|
+782|1115|2|2-5 Bloodcrushers|
+783|1116|1|1 Skull Cannon|
+784|1117|1|1 Kairos Fateweaver|
+785|1118|1|1 The Changeling|
+786|1119|1|1 The Blue Scribes|
+787|1120|1|1 Lord of Change|
+788|1125|1|1 Pyrocaster|
+789|1125|2|2-5 Flamers|
+790|1126|1|1 Exalted Flamer|
+791|1127|1|3-6 Screamers|
+792|1128|1|1 Burning Chariot|
+793|1129|1|1 Epidemius|
+794|1130|1|1 Great Unclean One|
+795|1132|1|1 Plagueridden|
+796|1132|2|9 Plaguebearers|
+797|1133|1|3-6 Nurgling Swarms|
+798|1134|1|1-2 Beasts of Nurgle|
+799|1135|1|1 Plaguebringer|
+800|1135|2|2-5 Plague Drones|
+801|1136|1|1 The Masque of Slaanesh|
+802|1137|1|1 Keeper of Secrets|
+803|1138|1|1 Tranceweaver|
+804|1139|1|1 Herald of Slaanesh on Steed of Slaanesh|
+805|1141|1|1 Tormentbringer on Exalted Seeker Chariot|
+806|1142|1|1 Alluress|
+807|1142|2|9 Daemonettes|
+808|1143|1|1 Blissbringer|
+809|1143|2|2-5 Fiends|
+810|1144|1|1-2 Hellflayers|
+811|1145|1|1 Heartseeker|
+812|1145|2|4-9 Seekers|
+813|1146|1|1-2 Seeker Chariots|
+814|1147|1|1 Exalted Seeker Chariot|
+815|1148|1|1 Be’lakor|
+816|1149|1|1 Daemon Prince of Chaos|
+817|1150|1|5-10 Furies|
+818|1151|1|1 Soul Grinder|
+819|1153|1|1 Cerberus|
+820|1154|1|1 Vanguard Veteran Sergeant|
+821|1154|2|4-9 Vanguard Veterans|
+822|1156|1|1 Invictor Tactical Warsuit|
+823|1157|1|1 Intercessor Sergeant|
+824|1157|2|4-9 Intercessors|
+825|1158|1|1 Invader ATV|
+826|1159|1|1 Incursor Sergeant|
+827|1159|2|4-9 Incursors|
+828|1160|1|1 Scout Sergeant|
+829|1160|2|4-9 Scouts|
+830|1161|1|1 Sicaran Arcus|
+831|1162|1|1 Sergeant Telion|
+832|1163|1|1 Sicaran Omega|
+833|1164|1|1 Techmarine Gunner|
+834|1164|2|1 Thunderfire Cannon|
+835|1165|1|1 Bladeguard Ancient|
+836|1166|1|1 Veteran Biker Sergeant|
+837|1166|2|1-4 Veteran Bikers|
+838|1167|1|1 Company Champion on Bike|
+839|1168|1|1 Land Speeder Tempest|
+840|1169|1|1 Land Speeder Tornado|
+841|1172|1|1 Captain in Gravis Armour|
+842|1174|1|1 Chaplain|
+843|1175|1|1 Kratos|
+844|1177|1|1 Heavy Intercessor Sergeant|
+845|1177|2|4-9 Heavy Intercessors|
+846|1178|1|1 Vindicator Laser Destroyer|
+847|1179|1|1 Sokar-pattern Stormbird|
+848|1182|1|1 Ancient on Bike|
+849|1183|1|1 Terminator Sergeant|
+850|1183|2|4-9 Terminators|
+851|1184|1|1 Terminus Ultra|
+852|1185|1|1 Sicaran Battle Tank|
+853|1188|1|1 Vindicator|
+854|1189|1|1 Mastodon|
+855|1190|1|1 Stormtalon Gunship|
+856|1191|1|1 Stormraven Gunship|
+857|1192|1|1 Chaplain Venerable Dreadnought|
+858|1193|1|1 Devastator Centurion Sergeant|
+859|1193|2|2-5 Devastator Centurions|
+860|1197|1|1 Grey Knights Thunderhawk Gunship|
+861|1199|1|1 Repressor|
+862|1237|1|1 Valkyrie Sky Talon|
+863|1293|1|1 Blood Slaughterer|
+864|1294|1|1 Greater Blight Drone|
+865|1295|1|1 Decimator|
+866|1297|1|1 Kytan Ravager|
+867|1298|1|1 Greater Brass Scorpion|
+868|1302|1|1 Chaos Deimos Predator|
+869|1310|1|1 Dreadclaw Drop Pod|
+870|1311|1|1 Kharybdis Assault Claw|
+871|1317|1|1 Hell Blade|
+872|1318|1|1 Hell Talon|
+873|1321|1|1 Chaos Thunderhawk|
+874|1329|1|1 An'ggrath the Unbound|
+875|1332|1|1 Zarakynel|
+876|1333|1|1 Aetaos'rau'keres|
+877|1336|1|3 Plague Toads|
+878|1337|1|3 Pox Riders|
+879|1338|1|1 Spined Chaos Beast|
+880|1339|1|1 Giant Chaos Spawn|
+881|1340|1|1 Scabeiathrax the Bloated|
+882|1344|1|1 Librarian with Jump Pack|
+883|1345|1|1 Lieutenant in Reiver Armour|
+884|1346|1|1 Lieutenant|
+885|1347|1|1 Land Raider Prometheus|
+886|1348|1|1 Librarian on Bike|
+887|1355|1|1 Exalted Champion|
+888|1360|1|1 Grand Master in Nemesis Dreadknight|
+889|1361|1|1 Brotherhood Librarian|
+890|1362|1|1 Brotherhood Chaplain|
+891|1363|1|1 Stormhawk Interceptor|
+892|1364|1|1 Stormtalon Gunship|
+893|1367|1|1 Foul Blightspawn|
+894|1368|1|1 Biologus Putrifier|
+895|1369|1|1 Plague Surgeon|
+896|1370|1|1 Tallyman|
+897|1371|1|1 Deathshroud Champion|
+898|1371|2|2-5 Deathshroud Terminators|
+899|1372|1|1 Blightlord Champion|
+900|1372|2|2-9 Blightlord Terminators|
+901|1374|1|1-2 Myphitic Blight-hulers|
+902|1376|1|1 Plagueburst Crawler|
+903|1377|1|1 Mortarion|
+904|1383|1|1 Mukaali Rider Sergeant|
+905|1383|2|2 Mukaali Riders|
+906|1385|1|1 Grot Bomm Launcha|
+907|1386|1|1 Attack Fighta|
+908|1387|1|1 Fighta-Bommer|
+909|1388|1|1 Deff Rolla Battle Fortress|
+910|1389|1|1 Kill Krusha|
+911|1390|1|1 Raven Strike Fighter|
+912|1391|1|3 Knarloc Riders|
+913|1392|1|1 Great Knarloc|
+914|1393|1|1 Firestorm|
+915|1394|1|1 Ministorum Priest|
+916|1396|1|1 Tech-Priest Enginseer|
+917|1397|1|4 Munitorum Servitors|
+918|1398|1|1 Ogryn Bodyguard|
+919|1400|1|1 Bonesinger|
+920|1406|1|1 Sly Marbo|
+921|1423|1|1 Ravenwing Talonmaster|
+922|1446|1|1 Trajann Valoris|
+923|1447|1|1 Shield-Captain|
+924|1448|1|1 Shield-Captain in Allarus Terminator Armour|
+925|1449|1|1 Shield-Captain on Dawneagle Jetbike|
+926|1450|1|4-5 Custodian Wardens|
+927|1453|1|2-6 Allarus Custodians|
+928|1454|1|2-3 Vertus Praetors|
+929|1455|1|1 Bloodmaster|
+930|1456|1|1 Skullmaster|
+931|1458|1|1 Contemptor-Achillus Dreadnought|
+932|1460|1|1 Caladius Grav-tank|
+933|1461|1|1 Coronus Grav-carrier|
+934|1462|1|1 Changecaster|
+935|1463|1|1 Fateskimmer|
+936|1464|1|1 Fluxmaster|
+937|1465|1|1 Rotigus|
+938|1466|1|1 Horticulous Slimux|
+939|1467|1|1 Poxbringer|
+940|1468|1|1 Sloppity Bilepiper|
+941|1469|1|1 Spoilpox Scrivener|
+942|1470|1|1 Feculent Gnarlmaw|
+943|1472|1|1 Tzaangor Shaman|
+944|1474|1|1 Aviarch|
+945|1474|2|2-5 Enlightened|
+946|1476|1|1 Mutalith Vortex Beast|
+947|1477|1|1 Commander in Crisis Battlesuit|
+948|1478|1|1 Commander in Enforcer Battlesuit|
+949|1479|1|1 Telemon Heavy Dreadnought|
+950|1481|1|1 Armiger Helverin|
+951|1482|1|1 Armiger Warglaive|
+952|1483|1|1 Knight Preceptor|
+953|1484|1|1 Canis Rex|
+954|1485|1|1 Knight Castellan|
+955|1486|1|1 Knight Valiant|
+956|1523|1|1 Scout Sniper Sergeant|
+957|1523|2|4-9 Scout Snipers|
+958|1524|1|1 Sergeant Chronus|
+959|1525|1|1 Hoplite Alpha|
+960|1525|2|4-9 Secutarii Hoplites|
+961|1526|1|1 Peltast Alpha|
+962|1526|2|4-9 Secutarii Peltasts|
+963|1527|1|1 Techmarine on Bike|
+964|1533|1|1 Terrax-pattern Termite|
+965|1536|1|1 Big Mek with Shokk Attack Gun|
+966|1537|1|1 Defkilla Wartrike|
+967|1538|1|1 Kustom Boosta-blasta|
+968|1539|1|1 Shokkjump Dragsta|
+969|1540|1|1 Boomdakka Snazzwagon|
+970|1541|1|1 Megatrakk Scrapjet|
+971|1542|1|1 Rukkatrukk Squigbuggy|
+972|1545|1|1 Mekboy Workshop|
+973|1546|1|1 Abominant|
+974|1553|1|1 Preacher|
+975|1556|1|1 Haarken Worldclaimer|
+976|1557|1|1 Contemptor-Galatus Dreadnought|
+977|1558|1|3-6 Aquilon Custodians|
+978|1559|1|5 Custodian Guard with Adrasite and Pyrithite Spears|
+979|1560|1|3-6 Agamatus Custodians|
+980|1561|1|3-6 Venatari Custodians|
+981|1562|1|1 Pallas Grav-attack|
+982|1563|1|5 Sagittarum Custodians|
+983|1564|1|1 Orion Assault Dropship|
+984|1565|1|1 Jackal Alphus|
+985|1567|1|1 Clamavus|
+986|1568|1|1 Locus|
+987|1569|1|1 Sanctus|
+988|1570|1|1 Kelermorph|
+989|1571|1|1 Nexos|
+990|1572|1|1 Biophagus|
+991|1573|1|1-2 Achilles Ridgerunners|
+992|1574|1|4-8 Atalan Jackals|
+993|1574|2|1-2 Atalan Wolfquads*|
+994|1576|1|1 Tectonic Fragdrill|
+995|1577|1|1 Seraptek Heavy Construct|
+996|1579|1|1 Inquisitor Eisenhorn|
+997|1580|1|1 Tech-Priest Manipulus|
+998|1581|1|1 Master of Possession|
+999|1583|1|1 Lord Discordant on Helstalker|
+1000|1584|1|1 Master of Executions|
+1001|1586|1|1 Venomcrawler|
+1002|1587|1|1 Noctilith Crown|
+1003|1588|1|1 Skull Altar|
+1004|1589|1|1 Infernal Enrapturess|
+1005|1596|1|1 Rein|
+1006|1596|2|1 Raus|
+1007|1598|1|1 Amallyn Shadowguide|
+1008|1600|1|1 Rogue Psyker|
+1009|1601|1|4 Negavolt Cultists|
+1010|1603|1|4 Spindle Drones|
+1011|1604|1|1 Fellgor Champion|
+1012|1604|2|9 Fellgor Beastmen|
+1013|1606|1|1 Assault Intercessor Sergeant|
+1014|1606|2|4-9 Assault Intercessors|
+1015|1607|1|1 Land Raider Achilles|
+1016|1608|1|1 Land Raider Proteus|
+1017|1609|1|1 Fire Raptor Gunship|
+1018|1610|1|1 Storm Speeder Thunderstrike|
+1019|1611|1|1 Chief Librarian Tigurius|
+1020|1630|1|1 Ambull|
+1021|1647|1|1 Contorted Epitome|
+1022|1648|1|1 Shalaxi Helbane|
+1023|1649|1|1 Syll’Esske|
+1024|1650|1|1 Skorpius Dunerider|
+1025|1651|1|1 Skorpius Disintegrator|
+1026|1658|1|1 Knight Despoiler|
+1027|1659|1|1 Knight Tyrant|
+1028|1660|1|1 Knight Desecrator|
+1029|1661|1|1 Knight Rampager|
+1030|1662|1|1 Chaos Acastus Knight Asterius|
+1031|1663|1|1 War Dog Moirax|
+1032|1664|1|1 Acastus Knight Asterius|
+1033|1666|1|1 Falchion|
+1034|1667|1|1 Gladiator Reaper|
+1035|1668|1|1 Eliminator Sergeant|
+1036|1668|2|2 Eliminators|
+1037|1680|1|1 Ares Gunship|
+1038|1822|1|1 X-101|
+1039|1825|1|1 Gladiator Valiant|
+1040|1991|1|1 Terrax-pattern Termite|
+1041|1993|1|1 Da Red Gobbo|
+1042|1994|1|1 Carnodon|
+1043|1997|1|5-10 Death Company Marines|
+1044|2063|1|1 Triumph of Saint Katherine|
+1045|2064|1|1 Junith Eruita|
+1046|2066|1|1 Zephyrim Superior|
+1047|2066|2|4-9 Zephyrim|
+1048|2067|1|1-2 Mortifiers|
+1049|2068|1|1 Battle Sanctum|
+1050|2076|1|1-3 Attack Bikes|
+1051|2077|1|1 Warbringer Nemesis Titan|
+1052|2080|1|1 Big Mek with Kustom Force Field|
+1053|2081|1|1 Serberys Sulphurhound Alpha|
+1054|2081|2|2-5 Serberys Sulphurhounds|
+1055|2082|1|1 Serberys Raider Alpha|
+1056|2082|2|2-5 Serberys Raiders|
+1057|2083|1|1 Pteraxii Sterylizor Alpha|
+1058|2083|2|4-9 Pteraxii Sterylizors|
+1059|2084|1|1 Pteraxii Skystalker Alpha|
+1060|2084|2|4-9 Pteraxii Skystalkers|
+1061|2085|1|1 Archaeopter Transvector|
+1062|2086|1|1 Archaeopter Stratoraptor|
+1063|2087|1|1 Archaeopter Fusilave|
+1064|2088|1|1 Aleya|
+1065|2090|1|1 Inquisitor Draxus|
+1066|2092|1|1 Illuminor Szeras|
+1067|2093|1|1 Archivist|
+1068|2098|1|1 Hellblaster Sergeant|
+1069|2098|2|4-9 Hellblasters|
+1070|2099|1|1 Aggressor Sergeant|
+1071|2099|2|2-5 Aggressors|
+1072|2100|1|1 Adrax Agatone|
+1073|2102|1|1 Land Speeder Typhoon|
+1074|2103|1|1 Apothecary|
+1075|2103|2|1 Company Ancient|
+1076|2103|3|1 Company Champion|
+1077|2103|4|2 Company Veterans|
+1078|2105|1|1 Darnath Lysander|
+1079|2108|1|1 Plasmancer|
+1080|2109|1|1 Skorpekh Lord|
+1081|2110|1|3-6 Skorpekh Destroyers|
+1082|2111|1|2 Cryptothralls|
+1083|2112|1|1 Canoptek Reanimator|
+1084|2114|1|3-6 Canoptek Scarab Swarms|
+1085|2115|1|1 Canoptek Doomstalker|
+1086|2116|1|1-3 Lokhust Heavy Destroyers|
+1087|2173|1|1 Land Raider Redeemer|
+1088|2199|1|1 Marneus Calgar|
+1089|2199|2|2 Victrix Honour Guard|
+1090|2202|1|1 Devastator Sergeant|
+1091|2202|2|4-9 Devastator Marines|
+1092|2234|1|1 Primaris Company Champion|
+1093|2252|1|1 Spartan|
+1094|2255|1|1 Sternguard Veteran Sergeant|
+1095|2255|2|4-9 Sternguard Veterans|
+1096|2258|1|1 Stalker|
+1097|2266|1|1 Librarian|
+1098|2267|1|1 Deathstorm Drop Pod|
+1099|2268|1|1 Deimos Predator|
+1100|2269|1|1 Deredeo Dreadnought|
+1101|2270|1|1 Desolation Sergeant|
+1102|2270|2|4 Desolation Marines|
+1103|2285|1|5-10 Death Company Marines with Bolt Rifles|
+1104|2291|1|1 Sammael|
+1105|2296|1|1 Lazarus|
+1106|2302|1|1 Deathwing Ancient|
+1107|2302|2|1 Deathwing Apothecary|
+1108|2302|3|1 Deathwing Champion|
+1109|2302|4|2-7 Deathwing Command Terminators|
+1110|2350|1|1 Royal Warden|
+1111|2351|1|1 Lokhust Lord|
+1112|2352|1|1 Technomancer|
+1113|2353|1|1 Psychomancer|
+1114|2354|1|1 Chronomancer|
+1115|2355|1|1 Hexmark Destroyer|
+1116|2357|1|1 C’tan Shard of the Void Dragon|
+1117|2358|1|3-6 Ophydian Destroyers|
+1118|2359|1|1-6 Lokhust Destroyers|
+1119|2360|1|1 Szarekh|
+1120|2360|2|2 Triarchal Menhirs|
+1121|2361|1|1-3 Convergence of Dominion Starsteles|
+1122|2362|1|1 Tomb Citadel|
+1123|2363|1|1 Guardian Drone|
+1124|2374|1|One of the following:|
+1125|2374|2|1 Grenadier Sergeant and 9 Grenadiers|
+1126|2374|3|1 Grenadier Sergeant, 7 Grenadiers and 1 Heavy Weapons Team|
+1127|2375|1|1 Quartermaster Revenant|
+1128|2375|2|4 Medicae Servitors|
+1129|2377|1|3 Elysian Sniper Teams|
+1130|2378|1|1 Death Rider Commissar|
+1131|2379|1|1 Storm Chimera|
+1132|2453|1|1 Mega Dread|
+1133|2459|1|2 Wraithbone Arches|
+1134|2460|1|1 Lord of Virulence|
+1135|2461|1|1 Chaos Predator Destructor|
+1136|2462|1|1 Miasmic Malignifier|
+1137|2468|1|1 Deathwing Strikemaster|
+1138|2471|1|1 Lhamaean|
+1139|2471|2|1 Medusae|
+1140|2471|3|1 Sslyth|
+1141|2471|4|1 Ur-ghul|
+1142|2472|1|1 Palatine|
+1143|2473|1|1 Tor Garadon|
+1144|2477|1|1 Technoarcheologist|
+1145|2478|1|1 Skitarii Marshal|
+1146|2479|1|1 Morvenn Vahl|
+1147|2480|1|1 Aestred Thurga|
+1148|2480|2|1 Agathae Dolan|
+1149|2481|1|1 Sacresant Superior|
+1150|2481|2|4-9 Celestian Sacresants|
+1151|2482|1|1 Dogmata|
+1152|2483|1|1 Paragon Superior|
+1153|2483|2|2 Paragons|
+1154|2484|1|1 Castigator|
+1155|2485|1|1 Ibram Gaunt|
+1156|2485|2|5 Tanith Ghosts|
+1157|2488|1|1 Zodgrod Wortsnagga|
+1158|2489|1|1 Beastboss|
+1159|2490|1|1 Beastboss on Squigosaur|
+1160|2491|1|1 Painboss|
+1161|2492|1|1 Wurrboy|
+1162|2493|1|1 Mozrog Skragbad|
+1163|2494|1|1 Beast Snagga Nob|
+1164|2494|2|9-19 Beast Snagga Boyz|
+1165|2496|1|1-2 Nob On Smasha Squig|
+1166|2496|2|3-6 Squighog Boyz|
+1167|2497|1|1 Kill Rig|
+1168|2498|1|1 Hunta Rig|
+1169|2499|1|1 Big’ed Bossbunka|
+1170|2500|1|1 Infernal Master|
+1171|2501|1|1 Chaos Predator Annihilator|
+1172|2507|1|1 Novitiate Superior|
+1173|2507|2|9 Sisters Novitiate|
+1174|2509|1|1 Voidmaster|
+1175|2509|2|4 Voidsmen|
+1176|2509|3|1 Canid|
+1177|2518|1|1 Blade Champion|
+1178|2519|1|1 Valerian|
+1179|2520|1|1 Knight-Centura|
+1180|2521|1|1 Prosecutor Sister Superior|
+1181|2521|2|3-9 Prosecutors|
+1182|2522|1|1 Vigilator Sister Superior|
+1183|2522|2|3-9 Vigilators|
+1184|2523|1|1 Witchseeker Sister Superior|
+1185|2523|2|3-9 Witchseekers|
+1186|2524|1|1 Anathema Psykana Rhino|
+1187|2525|1|1 Reductus Saboteur|
+1188|2528|1|1 Winged Hive Tyrant|
+1189|2529|1|1 Parasite of Mortrex|
+1190|2530|1|1 Lieutenant in Phobos Armour|
+1191|2531|1|1 Voidreaver Felarch|
+1192|2531|2|4-9 Corsair Voidreavers|
+1193|2532|1|This unit can contain a maximum of 10 models.|
+1194|2532|2|1 Voidscarred Felarch|
+1195|2532|3|4-9 Corsair Voidscarred|
+1196|2532|4|0-1 Shade Runner|
+1197|2532|5|0-1 Soul Weaver|
+1198|2532|6|0-1 Way Seeker|
+1199|2533|1|3-6 Shroud Runners|
+1200|2534|1|1 Troupe Master|
+1201|2535|1|1 Shadowseer|
+1202|2536|1|1 Lead Player|
+1203|2536|2|4-11 Players|
+1204|2537|1|1 Death Jester|
+1205|2538|1|1 Solitaire|
+1206|2539|1|2-4 Skyweavers|
+1207|2540|1|1 Voidweaver|
+1208|2541|1|1 Starweaver|
+1209|2542|1|1 Yvraine|
+1210|2543|1|1 Visarch|
+1211|2544|1|1 Yncarne|
+1212|2562|1|1 War Dog Executioner|
+1213|2563|1|1 War Dog Stalker|
+1214|2564|1|1 War Dog Karnivore|
+1215|2565|1|1 War Dog Brigand|
+1216|2566|1|1 War Dog Huntsman|
+1217|2567|1|1 Knight Abominant|
+1218|2568|1|1 Impulsor|
+1219|2569|1|1 Cult Demagogue|
+1220|2569|2|1 Mindwitch|
+1221|2569|3|1 Iconarch|
+1222|2569|4|2 Blessed Blades|
+1223|2570|1|1 Aspiring Champion|
+1224|2570|2|4-9 Legionaries|
+1225|2571|1|3-6 Torments|
+1226|2571|2|5-10 Mutants|
+1227|2572|1|1 Chaos Predator Annihilator|
+1228|2582|1|1 Bloodthirster|
+1229|2583|1|10 Blue Horrors|
+1230|2584|1|10 Pink Horrors|
+1231|2587|1|1 Navis Sergeant-at-Arms|
+1232|2587|2|9 Navis Armsmen|
+1233|2588|1|1 Kroot Kill-broker|
+1234|2588|2|9 Kroot Farstalkers|
+1235|2588|3|2 Kroot Hounds|
+1236|2589|1|1 Traitor Enforcer|
+1237|2589|2|1 Traitor Ogryn|
+1238|2590|1|1 Traitor Sergeant|
+1239|2590|2|9 Traitor Guardsmen|
+1240|2591|1|16 Mutoid Vermin|
+1241|2592|1|4 Nightmare Hulks|
+1242|2592|2|3 Gellerpox Mutants|
+1243|2593|1|1 Ûthar the Destined|
+1244|2594|1|1 Kâhl|
+1245|2595|1|1 Einhyr Champion|
+1246|2596|1|1 Grimnyr|
+1247|2596|2|2 CORVs*|
+1248|2597|1|1 Brôkhyr Iron-master|
+1249|2597|2|1 Ironkin Assistant|
+1250|2597|3|3 E-COGs*|
+1251|2598|1|1 Theyn|
+1252|2598|2|9 Hearthkyn Warriors|
+1253|2599|1|1 Hesyr|
+1254|2599|2|4-9 Hearthguard|
+1255|2600|1|5-10 Cthonian Beserks|
+1256|2601|1|3-6 Hernkyn Pioneers|
+1257|2602|1|1 Sagitaur|
+1258|2603|1|3-6 Brôkhyr Thunderkyn|
+1259|2604|1|1 Hekaton Land Fortress|
+1260|2605|1|1 Lord Solar Leontus|
+1261|2606|1|1 Ursula Creed|
+1262|2607|1|1 Cadian Castellan|
+1263|2609|1|1 Cadian Commander|
+1264|2609|2|4 Cadian Veteran Guardsmen|
+1265|2610|1|1 Master of Ordnance, 1 Officer of the Fleet and 1 Astropath.|
+1266|2612|1|1 Shock Trooper Sergeant and 9 Shock Troopers|
+1267|2612|2|OR|
+1268|2612|3|2 Shock Trooper Sergeants and 18 Shock Troopers|
+1269|2613|1|1 Death Korps Watchmaster and 9 Death Korps Troopers|
+1270|2613|2|OR|
+1271|2613|3|2 Death Korps Watchmasters and 18 Death Korps Troopers|
+1272|2614|1|1 Jungle Fighter Sergeant and 9 Jungle Fighters|
+1273|2614|2|OR|
+1274|2614|3|2 Jungle Fighter Sergeants and 18 Jungle Fighters|
+1275|2615|1|1 Kasrkin Sergeant|
+1276|2615|2|9 Kasrkin Troopers|
+1277|2616|1|1 Rough Rider Sergeant|
+1278|2616|2|4-9 Rough Riders|
+1279|2617|1|1 Rogal Dorn Battle Tank|
+1280|2619|1|1 Aegis Defence Line|
+1281|2621|1|1 Angron|
+1282|2622|1|1 Khârn the Betrayer|
+1283|2623|1|1 Lord Invocatus|
+1284|2624|1|1 Daemon Prince of Khorne|
+1285|2625|1|1 Lord on Juggernaut|
+1286|2626|1|1 Master of Executions|
+1287|2627|1|1 Khorne Berzerker Champion|
+1288|2627|2|9-19 Khorne Berzerkers|
+1289|2628|1|1 Jakhal Pack Leader, 1 Dishonoured and 8 Jakhals|
+1290|2628|2|or:|
+1291|2628|3|1 Jakhal Pack Leader, 2 Dishonoured and 17 Jakhals|
+1292|2629|1|1 Terminator Champion|
+1293|2629|2|4-9 Chaos Terminators|
+1294|2630|1|1 Eightbound Champion|
+1295|2630|2|2-5 Eightbound|
+1296|2631|1|1 Exalted Eightbound Champion|
+1297|2631|2|2-5 Exalted Eightbound|
+1298|2632|1|1 Helbrute|
+1299|2633|1|2 Chaos Spawn|
+1300|2634|1|1 Chaos Land Raider|
+1301|2635|1|1 Defiler|
+1302|2636|1|1 Chaos Predator Destructor|
+1303|2637|1|1 Chaos Predator Annihilator|
+1304|2638|1|1 Forgefiend|
+1305|2639|1|1 Maulerfiend|
+1306|2640|1|1 Chaos Rhino|
+1307|2641|1|1 Heldrake|
+1308|2642|1|1 Khorne Lord of Skulls|
+1309|2677|1|1 Ancient in Terminator Armour|
+1310|2678|1|1 Chaplain Cassius|
+1311|2679|1|1 Vashtorr the Arkifane|
+1312|2682|1|1 Lion El’Jonson|
+1313|2683|1|1 Proctor-Vigilant|
+1314|2683|2|9 Vigilants|
+1315|2683|3|1 Cyber-mastiff|
+1316|2684|1|1 Proctor-Subductor|
+1317|2684|2|9 Subductors|
+1318|2684|3|1 Cyber-mastiff|
+1319|2685|1|1 Proctor-Exactant|
+1320|2685|2|9 Exaction Vigilants|
+1321|2685|3|1 Cyber-mastiff|
+1322|2686|1|5-10 Barbgaunts|
+1323|2687|1|1-2 Neurogaunt Nodebeasts*|
+1324|2687|2|10-20 Neurogaunts|
+1325|2688|1|1 Neurotyrant|
+1326|2689|1|1 Psychophage|
+1327|2690|1|1 Screamer-Killer|
+1328|2691|1|1 Tyranid Prime|
+1329|2691|2|2-5 Tyranid Warriors|
+1330|2692|1|1 Tyranid Prime|
+1331|2692|2|2-5 Tyranid Warriors|
+1332|2693|1|3-6 Von Ryan’s Leapers|
+1333|2694|1|1 Winged Tyranid Prime|
+1334|2700|1|1 Astraeus|
+1335|2701|1|1 Captain in Phobos Armour|
+1336|2702|1|1 Captain on Bike|
+1337|2703|1|1 Assault Centurion Sergeant|
+1338|2703|2|2-5 Assault Centurions|
+1339|2704|1|1 Fellblade|
+1340|2705|1|1 Gladiator Lancer|
+1341|2706|1|1 Ironclad Dreadnought|
+1342|2707|1|1 Judiciar|
+1343|2708|1|1 Kayvaan Shrike|
+1344|2709|1|1 Kor’sarro Khan|
+1345|2710|1|1 Land Raider Helios|
+1346|2711|1|1 Land Speeder|
+1347|2712|1|1 Outrider Sergeant|
+1348|2712|2|2-5 Outriders|
+1349|2712|3|0-1 Invader ATV|
+1350|2713|1|1 Pedro Kantor|
+1351|2714|1|1 Predator Annihilator|
+1352|2715|1|1 Predator Destructor|
+1353|2717|1|1 Redemptor Dreadnought|
+1354|2718|1|1 Reiver Sergeant|
+1355|2718|2|4-9 Reivers|
+1356|2719|1|1 Relic Contemptor Dreadnought|
+1357|2720|1|1 Relic Razorback|
+1358|2721|1|1 Repulsor|
+1359|2722|1|1 Repulsor Executioner|
+1360|2723|1|1 Rhino|
+1361|2724|1|1 Thunderhawk Transporter|
+1362|2725|1|1 Veteran Sergeant|
+1363|2725|2|4 Tyrannic War Veterans|
+1364|2726|1|1 Vulkan He’stan|
+1365|2727|1|1 Whirlwind|
+1366|2728|1|1 Whirlwind Scorpius|
+1367|2729|1|1 Xiphon Interceptor|
+1368|2730|1|1 Heretic Astartes Daemon Prince with Wings|
+1369|2731|1|1 Renegade Enforcer|
+1370|2732|1|3 Renegade Heavy Weapons Teams|
+1371|2733|1|1 Ogryn Pack Master|
+1372|2733|2|3 Chaos Mauler Hounds|
+1373|2734|1|3 Renegade Ogryn Brutes|
+1374|2735|1|3 Renegade Plague Ogryns|
+1375|2736|1|3 Deffkoptas with Big Shootas|
+1376|2737|1|5-10 Death Company Marines with Jump Packs|
+1377|2738|1|1 Sanguinary Priest|
+1378|2739|1|1 Earthshaker Platform|
+1379|2740|1|1 Elysian Drop Sentinel|
+1380|2741|1|1 Leman Russ Eradicator|
+1381|2742|1|1 Leman Russ Executioner|
+1382|2743|1|1 Leman Russ Exterminator|
+1383|2744|1|1 Leman Russ Punisher|
+1384|2745|1|1 Leman Russ Vanquisher|
+1385|2746|1|1 Tempestor|
+1386|2746|2|4-9 Tempestus Scions|
+1387|2748|1|1 Ravenwing Champion|
+1388|2748|2|1 Ravenwing Apothecary|
+1389|2748|3|1 Ravenwing Ancient|
+1390|2749|1|1 Daemon Prince of Nurgle with Wings|
+1391|2750|1|1 Icon Bearer|
+1392|2751|1|1 Norn Emissary|
+1393|2752|1|1 Norn Assimilator|
+1394|2753|1|1 Neurolictor|
+1395|2755|1|1 Exalted Sorcerer|
+1396|2757|1|1 Daemon Prince of Khorne with Wings|
+1397|2758|1|1 Daemon Prince of Chaos with Wings|
+1398|2759|1|1 Autarch Wayleaper|
+1399|2760|1|1 Inquisitor in Terminator Armour|
+1400|2761|1|1 Legionnaire Sergeant|
+1401|2761|2|4-9 Legionnaires|
+1402|2762|1|1 Rogue Trader|
+1403|2762|2|1 Death Cult Assassin|
+1404|2762|3|1 Lectro-Maester|
+1405|2762|4|1 Rejuvenat Adept|
+1406|2763|1|1 Janus Draik|
+1407|2764|1|1 Neyam Shai Murad|
+1408|2765|1|1 Navigator|
+1409|2766|1|1 UR-025|
+1410|2767|1|5-10 Inquisitorial Agents|
+1411|2767|2|1-2 Gun Servitors*|
+1412|2768|1|1 Grey Knights Relic Razorback|
+1413|2769|1|1 Armiger Moirax|
+1414|2770|1|1 Sir Hekhtur|
+1415|2771|1|1 Ephrael Stern|
+1416|2771|2|1 Kyganil of the Bloody Tears|
+1417|2772|1|1 Ancient|
+1418|2772|2|1 Company Champion|
+1419|2772|3|2 Company Veterans|
+1420|2773|1|1 Apothecary|
+1421|2775|1|1 Ancient|
+1422|2776|1|1 Assault Intercessor Sergeant with Jump Pack|
+1423|2776|2|4-9 Assault Intercessors with Jump Packs|
+1424|2779|1|10 MODELS MAXIMUM|
+1425|2779|2|3‑10 Kill Team Infiltrators|
+1426|2779|3|0‑3 Kill Team Infiltrators with bolt sniper rifles|
+1427|2779|4|0‑4 Kill Team Infiltrators with Deathwatch occulus bolt carbines|
+1428|2779|5|0‑4 Kill Team Infiltrators with combat knives|
+1429|2780|1|10 MODELS MAXIMUM|
+1430|2780|2|1 Kill Team Sergeant|
+1431|2780|3|2-9 Kill Team Intercessors|
+1432|2780|4|0-4 Kill Team Intercessors with plasma incinerators|
+1433|2780|5|0-4 Kill Team Intercessors with heavy bolt pistols|
+1434|2780|6|0‑4 Kill Team Intercessors with pyreblasters|
+1435|2780|7|0‑2 Kill Team Intercessors with superfrag rocket launchers|
+1436|2781|1|10 MODELS MAXIMUM|
+1437|2781|2|3‑10 Kill Team Heavy Intercessors|
+1438|2781|3|0‑3 Kill Team Heavy Intercessors with power fists|
+1439|2781|4|0‑3 Kill Team Heavy Intercessors with melta rifles|
+1440|2783|1|1 Watch Sergeant|
+1441|2783|2|4-9 Deathwatch Veterans|
+1442|2786|1|1 Impulsor|
+1443|2787|1|1 Gladiator Lancer|
+1444|2788|1|1 Gladiator Valiant|
+1445|2789|1|1 Gladiator Reaper|
+1446|2790|1|1 Repulsor Executioner|
+1447|2791|1|1 Repulsor|
+1448|2792|1|1 Chaplain Grimaldus|
+1449|2792|2|3 Cenobyte Servitors*|
+1450|2793|1|1 Castellan|
+1451|2794|1|1 High Marshal Helbrecht|
+1452|2795|1|1 Emperor’s Champion|
+1453|2796|1|1 Marshal|
+1454|2798|1|4-10 Sword Brothers|
+1455|2799|1|1 Sword Brother|
+1456|2799|2|5-11 Initiates|
+1457|2799|3|4-8 Neophytes|
+1458|2801|1|1 Venerable Dreadnought|
+1459|2802|1|1 Wolf Guard Pack Leader with Jump Pack|
+1460|2803|1|1 Wolf Guard Pack Leader in Terminator Armour|
+1461|2804|1|1 Wolf Guard Pack Leader|
+1462|2805|1|1 Cyberwolf|
+1463|2806|1|1 Hound of Morkai Pack Leader|
+1464|2806|2|4-9 Hound of Morkai|
+1465|2807|1|1 Castellum Stronghold|
+1466|2808|1|1 Wall of Martyrs Bunker|
+1467|2809|1|1-2 Wall of Martyrs Defence Lines|
+1468|2810|1|1 Wall of Martyrs Defence Emplacement|
+1469|2811|1|1 Aegis Defence Line with Weapon Emplacement (4 large shield sections, 4 small shield sections and 1 gun emplacement)|
+1470|3582|1|1 Khorne Berzerker Champion|
+1471|3582|2|9-19 Khorne Berzerkers|
+1472|3583|1|1 Aspiring Sorcerer|
+1473|3583|2|4-9 Rubric Marines|
+1474|3584|1|1 Plague Champion|
+1475|3584|2|4-9 Plague Marines|
+1476|3585|1|1 Chaos Thunderhawk|
+1477|3586|1|1 Greater Blight Drone|
+1478|3587|1|1 Blood Slaughterer|
+1479|3588|1|1 Chaos Thunderhawk|
+1480|3589|1|1 Greater Brass Scorpion|
+1481|3590|1|1 Kytan Ravager|
+1482|3591|1|1 Chaos Thunderhawk|
+1483|3592|1|1 Chaos Lord on Palanquin of Nurgle|
+1484|3593|1|4 Nightmare Hulks|
+1485|3593|2|3 Gellerpox Mutants|
+1486|3594|1|1 Hell Blade|
+1487|3595|1|1 Hell Talon|
+1488|3596|1|16 Mutoid Vermin|
+1489|3597|1|1 Chaos Lord on Disc of Tzeentch|
+1490|3598|1|1 Hell Blade|
+1491|3599|1|1 Hell Talon|
+1492|3600|1|1 Sorcerer on Palanquin of Nurgle|
+1493|3601|1|1 Hell Blade|
+1494|3602|1|1 Hell Talon|
+1495|3603|1|1 Terrax-pattern Termite|
+1496|3604|1|1 Terrax-pattern Termite|
+1497|3605|1|1 Terrax-pattern Termite|
+1498|3606|1|1 Terrax-pattern Termite|
+1499|3607|1|1 Land Raider Achilles|
+1500|3608|1|1 Land Raider Achilles|
+1501|3609|1|1 Land Raider Achilles|
+1502|3610|1|1 Land Raider Achilles|
+1503|3611|1|1 Land Raider Proteus|
+1504|3612|1|1 Land Raider Proteus|
+1505|3613|1|1 Land Raider Proteus|
+1506|3614|1|1 Land Raider Proteus|
+1507|3615|1|1 Fire Raptor Gunship|
+1508|3616|1|1 Fire Raptor Gunship|
+1509|3617|1|1 Fire Raptor Gunship|
+1510|3618|1|1 Fire Raptor Gunship|
+1511|3619|1|1 Spartan|
+1512|3620|1|1 Spartan|
+1513|3621|1|1 Spartan|
+1514|3622|1|1 Spartan|
+1515|3623|1|1 Deredeo Dreadnought|
+1516|3624|1|1 Deredeo Dreadnought|
+1517|3625|1|1 Deredeo Dreadnought|
+1518|3626|1|1 Deredeo Dreadnought|
+1519|3627|1|1 Cerberus|
+1520|3628|1|1 Cerberus|
+1521|3629|1|1 Cerberus|
+1522|3630|1|1 Cerberus|
+1523|3631|1|1 Kratos|
+1524|3632|1|1 Kratos|
+1525|3633|1|1 Kratos|
+1526|3634|1|1 Kratos|
+1527|3635|1|1 Sokar-pattern Stormbird|
+1528|3636|1|1 Sokar-pattern Stormbird|
+1529|3637|1|1 Sokar-pattern Stormbird|
+1530|3638|1|1 Sokar-pattern Stormbird|
+1531|3639|1|1 Sicaran Battle Tank|
+1532|3640|1|1 Sicaran Battle Tank|
+1533|3641|1|1 Sicaran Battle Tank|
+1534|3642|1|1 Sicaran Battle Tank|
+1535|3643|1|1 Mastodon|
+1536|3644|1|1 Mastodon|
+1537|3645|1|1 Mastodon|
+1538|3646|1|1 Mastodon|
+1539|3647|1|1 Leviathan Dreadnought|
+1540|3648|1|1 Leviathan Dreadnought|
+1541|3649|1|1 Leviathan Dreadnought|
+1542|3650|1|1 Leviathan Dreadnought|
+1543|3651|1|1 Fellblade|
+1544|3652|1|1 Fellblade|
+1545|3653|1|1 Fellblade|
+1546|3654|1|1 Fellblade|
+1547|3655|1|1 Relic Contemptor Dreadnought|
+1548|3656|1|1 Relic Contemptor Dreadnought|
+1549|3657|1|1 Relic Contemptor Dreadnought|
+1550|3658|1|1 Relic Contemptor Dreadnought|
+1551|3659|1|1 Whirlwind Scorpius|
+1552|3660|1|1 Whirlwind Scorpius|
+1553|3661|1|1 Whirlwind Scorpius|
+1554|3662|1|1 Whirlwind Scorpius|
+1555|3663|1|1 Xiphon Interceptor|
+1556|3664|1|1 Xiphon Interceptor|
+1557|3665|1|1 Xiphon Interceptor|
+1558|3666|1|1 Xiphon Interceptor|
+1559|3667|1|1 Rapier Carrier|
+1560|3668|1|1 Rapier Carrier|
+1561|3669|1|1 Rapier Carrier|
+1562|3670|1|1 Rapier Carrier|
+1563|3671|1|1 Storm Eagle Gunship|
+1564|3672|1|1 Storm Eagle Gunship|
+1565|3673|1|1 Storm Eagle Gunship|
+1566|3674|1|1 Storm Eagle Gunship|
+1567|3675|1|1 Sicaran Venator|
+1568|3676|1|1 Sicaran Venator|
+1569|3677|1|1 Sicaran Venator|
+1570|3678|1|1 Sicaran Venator|
+1571|3679|1|1 Typhon|
+1572|3680|1|1 Typhon|
+1573|3681|1|1 Typhon|
+1574|3682|1|1 Typhon|
+1575|3683|1|1 Sicaran Punisher|
+1576|3684|1|1 Sicaran Punisher|
+1577|3685|1|1 Sicaran Punisher|
+1578|3686|1|1 Sicaran Punisher|
+1579|3687|1|1 Falchion|
+1580|3688|1|1 Falchion|
+1581|3689|1|1 Falchion|
+1582|3690|1|1 Falchion|
+1583|3693|1|1 Overlord with Translocation Shroud |
+1584|3694|1|1-3 Sydonian Dragoons|
+1585|3695|1|1 Sydonian Skatros|
+1586|3698|1|3-6 Inner Circle Companions|
+1587|3699|1|1 Crisis Sunforge Shas’vre|
+1588|3699|2|2 Crisis Sunforge Shas’ui|
+1589|3700|1|1 Crisis Fireknife Shas’vre|
+1590|3700|2|2 Crisis Fireknife Shas’ui|
+1591|3701|1|1 Crisis Starscythe Shas’vre|
+1592|3701|2|2 Crisis Starscythe Shas’ui|
+1593|3702|1|1 Kroot Trail Shaper|
+1594|3703|1|1 Kroot War Shaper|
+1595|3704|1|1 Kroot Flesh Shaper|
+1596|3705|1|1 Kroot Lone-Spear|
+1597|3706|1|3-6 Krootox Rampagers|
+1598|3707|1|1 Big Mek|
+1599|3709|1|"1 Ufthak Blackhawk - <span class=""kwb"">EPIC</span> <span class=""kwb"">HERO</span>"|
+1600|3710|1|1 Yaegir Theyn|
+1601|3710|2|9 Hernkyn Yaegirs|
+1602|3711|1|1 Chaos Lord|
+1603|3712|1|1 Cultist Firebrand |
+1604|3713|1|1 Cultist Champion|
+1605|3713|2|9-19 Chaos Cultists|
+1606|3714|1|1 Canoness With Jump Pack|
+1607|3715|1|1 Benefictus|
+1608|3716|1|1 Acolyte Leader|
+1609|3716|2|4-9 Acolyte Hybrids|
+1610|3811|1|1 Celestian Sacresant Aveline|
+1611|3812|1|1 Ministorum Priest|
+1612|3813|1|1 Terminator Justicar|
+1613|3813|2|4 Grey Knights Terminators|
+1614|3814|1|1 Watch Captain Artemis|
+1615|3815|1|1 Watch Master|
+1616|3816|1|1 Watch Sergeant|
+1617|3816|2|4-9 Deathwatch Veterans|
+1618|3817|1|1 Corvus Blackstar|
+1619|3818|1|1 Sister Superior|
+1620|3818|2|9 Battle Sisters|
+1621|3819|1|1 Immolator|
+1622|3820|1|1 Inquisitorial Chimera|
+1623|3821|1|1 Chaplain Cassius|
+1624|3821|2|"8 Kill Team Veterans:<br><ul style=""list-style-type:circle;""><li>Vael Donatus</li><li>Zameon Gydrael</li><li>Rodricus Grytt</li><li>Antor Delassio</li><li>Edryc Setorax</li><li>Jensus Natorian</li><li>Drenn Redblade</li><li>Ennox Sorrlock</li></ul>"|
+1625|3821|3|1 Kill Team Terminator (Garran Branatar)|
+1626|3821|4|1 Kill Team Biker (Jetek Suberei)|
+1627|3822|1|1 Deathwatch Terminator Sergeant|
+1628|3822|2|4-9 Deathwatch Terminators|
+1629|3823|1|1 Veteran Biker Sergeant|
+1630|3823|2|2-5 Veteran Bikers|
+1631|3824|1|10 MODELS MAXIMUM|
+1632|3824|2|5-10 Kill Team Veterans|
+1633|3824|3|0-4 Kill Team Veterans with Jump Packs|
+1634|3824|4|0-2 Kill Team Bikers|
+1635|3824|5|0-4 Kill Team Terminators|
+1636|3825|1|10 MODELS MAXIMUM|
+1637|3825|2|5-10 Kill Team Intercessors|
+1638|3825|3|0-4 Kill Team Intercessors with plasma incinerators|
+1639|3825|4|0-4 Kill Team Intercessors with heavy bolt pistols|
+1640|3825|5|0-2 Kill Team Outriders|
+1641|3826|1|10 MODELS MAXIMUM|
+1642|3826|2|5-10 Kill Team Heavy Intercessors|
+1643|3826|3|0-2 Kill Team Heavy Intercessors with power fists|
+1644|3826|4|0-2 Kill Team Heavy Intercessors with melta rifles|
+1645|3826|5|0-2 Kill Team Heavy Intercessors with jump packs|
+1646|3827|1|10 MODELS MAXIMUM|
+1647|3827|2|5-10 Kill Team Infiltrators|
+1648|3827|3|0-2 Kill Team Infiltrators with bolt sniper rifles|
+1649|3827|4|0-2 Kill Team Infiltrators with jump packs|
+1650|3827|5|0-4 Kill Team Infiltrators with occulus bolt carbines|
+1651|3827|6|0-4 Kill Team Infiltrators with combat knives|
+1652|3828|1|1-2 Daemonhosts|
+1653|3829|1|1 Jokaero Weaponsmith|
+1654|3830|1|1 Imperial Rhino|
+1655|3831|1|1 Blood Angels Captain|
+1656|3832|1|1 Death Company Captain|
+1657|3833|1|1 Death Company Captain with Jump Pack|
+1658|3834|1|1 Tempestor Aquilon|
+1659|3834|2|9 Tempestus Aquilons|
+1660|3835|1|1 Death Company Dreadnought|
+1661|3836|1|5-10 Death Company Marines|
+1662|3837|1|5-10  Death Company Marines with Jump Packs|
+1663|3838|1|1 Lieutenant Titus|
+1664|3839|1|1 Tech-Priest Dominus|
+1665|3840|1|1 Tech-Priest Manipulus|
+1666|3841|1|1 Skitarii Marshal|
+1667|3842|1|1 Skitarii Ranger Alpha|
+1668|3842|2|9 Skitarii Rangers|
+1669|3843|1|1 Skitarii Vanguard Alpha|
+1670|3843|2|9 Skitarii Vanguard|
+1671|3844|1|1 Cultist Firebrand |
+1672|3845|1|1 Cult Demagogue|
+1673|3845|2|1 Mindwitch|
+1674|3845|3|1 Iconarch|
+1675|3845|4|2 Blessed Blades|
+1676|3846|1|1 Traitor Enforcer|
+1677|3846|2|1 Traitor Ogryn|
+1678|3847|1|1 Renegade Enforcer|
+1679|3848|1|1 Rogue Psyker|
+1680|3849|1|1 Cultist Champion|
+1681|3849|2|9-19 Chaos Cultists|
+1682|3850|1|1 Cultist Champion|
+1683|3850|2|9-19 Chaos Cultists|
+1684|3851|1|3-6 Torments|
+1685|3851|2|5-10 Mutants|
+1686|3852|1|1 Fellgor Champion|
+1687|3852|2|9 Fellgor Beastmen|
+1688|3853|1|1 Traitor Sergeant|
+1689|3853|2|9 Traitor Guardsmen|
+1690|3854|1|4 Nightmare Hulks|
+1691|3854|2|3 Gellerpox Mutants|
+1692|3855|1|16 Mutoid Vermin|
+1693|3856|1|4 Negavolt Cultists|
+1694|3857|1|3 Renegade Heavy Weapons Teams|
+1695|3858|1|1 Ogryn Pack Master|
+1696|3858|2|3 Chaos Mauler Hounds|
+1697|3859|1|3 Renegade Ogryn Brutes|
+1698|3860|1|3 Renegade Plague Ogryns|
+1699|3861|1|1 Boss Nob|
+1700|3861|2|5 Breaka Boyz|
+1701|3871|1|1 Watch Master|
+1702|3872|1|1 Watch Captain Artemis|
+1703|3873|1|1 Deathwatch Terminator Sergeant|
+1704|3873|2|4-9 Deathwatch Terminators|
+1705|3874|1|10 MODELS MAXIMUM|
+1706|3874|2|1 Kill Team Sergeant with Jump Pack|
+1707|3874|3|2‑9 Kill Team Intercessors with Jump Packs|
+1708|3874|4|0‑5 Kill Team Heavy Intercessors with Jump Packs|
+1709|3875|1|1 Chaplain Cassius|
+1710|3875|2|"8 Kill Team Veterans:<br><ul style=""list-style-type:circle;""><li>Vael Donatus</li><li>Zameon Gydrael</li><li>Rodricus Grytt</li><li>Antor Delassio</li><li>Edryc Setorax</li><li>Jensus Natorian</li><li>Drenn Redblade</li><li>Ennox Sorrlock</li></ul>"|
+1711|3875|3|1 Kill Team Terminator (Garran Branatar)|
+1712|3875|4|1 Kill Team Biker (Jetek Suberei)|
+1713|3876|1|1 Visionary|
+1714|3876|2|4-9 Legionaries|
+1715|3877|1|1 Deathleaper|
+1716|3878|1|1 Parasite of Mortrex|
+1717|3879|1|1 Winged Hive Tyrant|
+1718|3880|1|1 Winged Tyranid Prime|
+1719|3881|1|10-20 Gargoyles|
+1720|3882|1|1 Tyrannocyte|
+1721|3883|1|1 Lictor|
+1722|3884|1|1 Mawloc|
+1723|3885|1|1 Neurolictor|
+1724|3886|1|5 Raveners|
+1725|3887|1|1 Trygon|
+1726|3888|1|3-6 Von Ryan’s Leapers|
+1727|3889|1|1 Lord Commissar|
+1728|3889|2|5 Veteran Guardsmen|
+1729|3890|1|1 Lord Marshal Dreir|
+1730|3891|1|1 Catachan Commander|
+1731|3891|2|4 Veteran Guardsmen|
+1732|3892|1|1 Rogal Dorn Tank Commander|
+1733|3893|1|1 Krieg Engineer Watchmaster|
+1734|3893|2|4-9 Krieg Combat Engineers|
+1735|3894|1|3 Heavy Weapons Teams|
+1736|3895|1|3 Heavy Weapons Gunners|
+1737|3895|2|1 Fire Coordinator|
+1738|3896|1|1 Artillery Team|
+1739|3897|1|2 Ordnance Teams|
+1740|3898|1|1 Ridemaster|
+1741|3898|2|4-9 Death Riders|
+1742|3909|1|1 Lhykhis|
+1743|3910|1|1 D-cannon Platform|
+1744|3911|1|1 Shadow Weaver Platform|
+1745|3912|1|1 Vibro Cannon Platform|
+1746|3913|1|1 Wraithknight with Ghostglaive|
+1747|3914|1|1 Archon|
+1748|3915|1|1 Succubus|
+1749|3916|1|1 Sybarite|
+1750|3916|2|9 Kabalite Warriors|
+1751|3917|1|1 Hekatrix|
+1752|3917|2|9 Wyches|
+1753|3918|1|1 Klaivex|
+1754|3918|2|4-9 Incubi|
+1755|3919|1|1 Arena Champion|
+1756|3919|2|2-5 Reavers|
+1757|3920|1|1 Raider|
+1758|3921|1|1 Venom|
+1759|3922|1|"1 Minka Lesk - <span class=""kwb"">EPIC</span> <span class=""kwb"">HERO</span>"|
+1760|3922|2|4 Lesk’s Heroes|
+1761|3937|1|1 Provisionally Prepared|
+1762|3938|1|1 Cadian Castellan|
+1763|3939|1|1 Cadian Commander|
+1764|3939|2|4 Cadian Veteran Guardsmen|
+1765|3940|1|1 Catachan Commander|
+1766|3940|2|4 Veteran Guardsmen|
+1767|3941|1|1 Lord Commissar|
+1768|3941|2|5 Veteran Guardsmen|
+1769|3942|1|1 Leman Russ Commander|
+1770|3943|1|1 Primaris Psyker|
+1771|3944|1|1 Rogal Dorn Tank Commander|
+1772|3945|1|1 Death Rider Commissar|
+1773|3946|1|1 Quartermaster Revenant|
+1774|3946|2|4 Medicae Servitors|
+1775|3947|1|"1 Minka Lesk - <span class=""kwb"">EPIC</span> <span class=""kwb"">HERO</span>"|
+1776|3947|2|4 Lesk’s Heroes|
+1777|3948|1|1 Shock Trooper Sergeant and 9 Shock Troopers|
+1778|3948|2|OR|
+1779|3948|3|2 Shock Trooper Sergeants and 18 Shock Troopers|
+1780|3949|1|1 Jungle Fighter Sergeant and 9 Jungle Fighters|
+1781|3949|2|OR|
+1782|3949|3|2 Jungle Fighter Sergeants and 18 Jungle Fighters|
+1783|3950|1|1 Death Korps Watchmaster and 9 Death Korps Troopers|
+1784|3950|2|OR|
+1785|3950|3|2 Death Korps Watchmasters and 18 Death Korps Troopers|
+1786|3951|1|1 Chimera|
+1787|3952|1|1 Taurox|
+1788|3953|1|1 Taurox Prime|
+1789|3954|1|1 Storm Chimera|
+1790|3955|1|1 Aegis Defence Line|
+1791|3956|1|1 Earthshaker Platform|
+1792|3957|1|1 Hydra Platform|
+1793|3958|1|1 Manticore Platform|
+1794|3959|1|1-2 Sabre Gun Platforms|
+1795|3960|1|1-2 Armoured Sentinels|
+1796|3961|1|1 Artillery Team|
+1797|3962|1|1 Rough Rider Sergeant|
+1798|3962|2|4-9 Rough Riders|
+1799|3963|1|1 Baneblade|
+1800|3964|1|1 Banehammer|
+1801|3965|1|1 Banesword|
+1802|3966|1|1 Basilisk|
+1803|3967|1|3 Heavy Weapons Teams|
+1804|3968|1|3 Heavy Weapons Teams|
+1805|3969|1|1 Ridemaster|
+1806|3969|2|4-9 Death Riders|
+1807|3970|1|1 Deathstrike|
+1808|3971|1|1 Doomhammer|
+1809|3972|1|2 Ordnance Teams|
+1810|3973|1|1 Hellhammer|
+1811|3974|1|1 Hellhound|
+1812|3975|1|1 Hydra|
+1813|3976|1|1 Kasrkin Sergeant|
+1814|3976|2|9 Kasrkin Troopers|
+1815|3977|1|1 Krieg Engineer Watchmaster|
+1816|3977|2|4-9 Krieg Combat Engineers|
+1817|3978|1|3 Heavy Weapons Gunners|
+1818|3978|2|1 Fire Coordinator|
+1819|3979|1|1 Leman Russ Battle Tank|
+1820|3980|1|1 Leman Russ Demolisher|
+1821|3981|1|1 Leman Russ Eradicator|
+1822|3982|1|1 Leman Russ Executioner|
+1823|3983|1|1 Leman Russ Exterminator|
+1824|3984|1|1 Leman Russ Punisher|
+1825|3985|1|1 Leman Russ Vanquisher|
+1826|3986|1|1 Manticore|
+1827|3987|1|1 Rogal Dorn Battle Tank|
+1828|3988|1|1-2 Scout Sentinels|
+1829|3989|1|1 Shadowsword|
+1830|3990|1|1 Stormlord|
+1831|3991|1|1 Stormsword|
+1832|3992|1|1 Wyvern|
+1833|3993|1|1 Cyclops Demolition Vehicle|
+1834|3994|1|1 Arkurian Stormhammer|
+1835|3995|1|1 Armageddon-pattern Medusa|
+1836|3996|1|1 Atlas Recovery Vehicle|
+1837|3997|1|1 Carnodon|
+1838|3998|1|1 Centaur Light Carrier|
+1839|3999|1|1 Colossus|
+1840|4000|1|1 Crassus|
+1841|4001|1|One of the following:|
+1842|4001|2|1 Grenadier Sergeant and 9 Grenadiers|
+1843|4001|3|1 Grenadier Sergeant, 7 Grenadiers and 1 Heavy Weapons Team|
+1844|4002|1|1 Dominus Armoured Siege Bombard|
+1845|4003|1|1 Earthshaker Carriage|
+1846|4004|1|1 Elysian Drop Sentinel|
+1847|4005|1|3 Elysian Sniper Teams|
+1848|4006|1|1 Gorgon Heavy Transport|
+1849|4007|1|1 Griffon Mortar Carrier|
+1850|4008|1|1 Hades Breaching Drill|
+1851|4009|1|1 Heavy Mortar Team|
+1852|4010|1|1 Heavy Quad Launcher Team|
+1853|4011|1|1 Macharius|
+1854|4012|1|1 Macharius Omega|
+1855|4013|1|1 Macharius Vanquisher|
+1856|4014|1|1 Macharius Vulcan|
+1857|4015|1|1 Malcador|
+1858|4016|1|1 Malcador Annihilator|
+1859|4017|1|1 Malcador Defender|
+1860|4018|1|1 Malcador Infernus|
+1861|4019|1|1 Medusa Carriage|
+1862|4020|1|1 Minotaur|
+1863|4021|1|1 Mukaali Rider Sergeant|
+1864|4021|2|2 Mukaali Riders|
+1865|4022|1|4 Munitorum Servitors|
+1866|4023|1|1 Praetor|
+1867|4024|1|1-3 Rapier Laser Destroyers|
+1868|4025|1|1 Master of Ordnance, 1 Officer of the Fleet and 1 Astropath.|
+1869|4026|1|1 Salamander Command Vehicle|
+1870|4027|1|1 Salamander Scout Vehicle|
+1871|4028|1|1 Sentinel Powerlifter|
+1872|4029|1|1 Stormblade|
+1873|4030|1|1 Stygies Destroyer Tank Hunter|
+1874|4031|1|1-3 Tarantula Sentry Guns|
+1875|4032|1|1 Tauros Assault Vehicle|
+1876|4033|1|1 Tauros Venator|
+1877|4034|1|1 Trojan Support Vehicle|
+1878|4035|1|1 Valdor|
+1879|4036|1|1 Chaos Lord|
+1880|4037|1|1 Chaos Lord in Terminator Armour|
+1881|4038|1|1 Chaos Lord|
+1882|4039|1|1 Chaos Lord on Disc of Tzeentch|
+1883|4040|1|1 Chaos Lord on Juggernaut|
+1884|4041|1|1 Chaos Lord on Palanquin of Nurgle|
+1885|4042|1|1 Chaos Lord on Steed of Slaanesh|
+1886|4043|1|1 Terminator Champion|
+1887|4043|2|4-9 Chaos Terminators|
+1888|4044|1|1 Chosen Champion|
+1889|4044|2|4-9 Chosen|
+1890|4045|1|1 Cultist Firebrand |
+1891|4046|1|1 Cult Demagogue|
+1892|4046|2|1 Mindwitch|
+1893|4046|3|1 Iconarch|
+1894|4046|4|2 Blessed Blades|
+1895|4047|1|1 Traitor Enforcer|
+1896|4047|2|1 Traitor Ogryn|
+1897|4048|1|1 Renegade Enforcer|
+1898|4049|1|1 Rogue Psyker|
+1899|4050|1|1 Cultist Champion|
+1900|4050|2|9-19 Chaos Cultists|
+1901|4051|1|1 Cultist Champion|
+1902|4051|2|9-19 Chaos Cultists|
+1903|4052|1|3-6 Torments|
+1904|4052|2|5-10 Mutants|
+1905|4053|1|1 Fellgor Champion|
+1906|4053|2|9 Fellgor Beastmen|
+1907|4054|1|1 Traitor Sergeant|
+1908|4054|2|9 Traitor Guardsmen|
+1909|4055|1|4 Nightmare Hulks|
+1910|4055|2|3 Gellerpox Mutants|
+1911|4056|1|16 Mutoid Vermin|
+1912|4057|1|4 Negavolt Cultists|
+1913|4058|1|3 Renegade Heavy Weapons Teams|
+1914|4059|1|1 Ogryn Pack Master|
+1915|4059|2|3 Chaos Mauler Hounds|
+1916|4060|1|3 Renegade Ogryn Brutes|
+1917|4061|1|3 Renegade Plague Ogryns|
+1918|4062|1|1 Dark Apostle|
+1919|4062|2|2 Dark Disciples|
+1920|4063|1|1 Havoc Champion|
+1921|4063|2|4 Havocs|
+1922|4064|1|1 Aspiring Champion|
+1923|4064|2|4-9 Legionaries|
+1924|4065|1|1 Master of Possession|
+1925|4066|1|1 Possessed Champion|
+1926|4066|2|4-9 Possessed|
+1927|4067|1|1 Raptor Champion|
+1928|4067|2|4-9 Raptors|
+1929|4068|1|1 Sorcerer|
+1930|4069|1|1 Sorcerer on Disc of Tzeentch|
+1931|4070|1|1 Sorcerer on Palanquin of Nurgle|
+1932|4071|1|1 Sorcerer on Steed of Slaanesh|
+1933|4072|1|1 Sorcerer in Terminator Armour|
+1934|4073|1|1 Warp Talon Champion|
+1935|4073|2|4-9 Warp Talons|
+1936|4074|1|1 Miraculist|
+1937|4074|2|1 Salvationist|
+1938|4074|3|1 Death Cult Assassin|
+1939|4074|4|2 Missionaries|
+1940|4074|5|4 Sanctifiers|
+1941|4075|1|1 Miraculist|
+1942|4075|2|1 Salvationist|
+1943|4075|3|1 Death Cult Assassin|
+1944|4075|4|2 Missionaries|
+1945|4075|5|4 Sanctifiers|
+1946|4076|1|1 Blood Herald|
+1947|4076|2|7 Goremongers|
+1948|4077|1|1 Fulgrim|
+1949|4078|1|1 Lord Exultant|
+1950|4079|1|1 Obsessionist|
+1951|4079|2|4-9 Tormentors|
+1952|4080|1|1 Obsessionist|
+1953|4080|2|4-9 Infractors|
+1954|4081|1|1 Terminator Champion|
+1955|4081|2|4 Chaos Terminators|
+1956|4082|1|1 Chaos Land Raider|
+1957|4083|1|1 Lucius the Eternal|
+1958|4084|1|1 Lord Kakophonist|
+1959|4085|1|1 Sorcerer|
+1960|4086|1|1 Daemon Prince of Slaanesh|
+1961|4087|1|1 Daemon Prince of Slaanesh with Wings|
+1962|4088|1|1 Disharmonist|
+1963|4088|2|5 Noise Marines|
+1964|4089|1|3-6 Flawless Blades|
+1965|4090|1|2 Chaos Spawn|
+1966|4091|1|1 Maulerfiend|
+1967|4092|1|1 Heldrake|
+1968|4093|1|1 Chaos Rhino|
+1969|4094|1|1 Shalaxi Helbane|
+1970|4095|1|1 Alluress|
+1971|4095|2|9 Daemonettes|
+1972|4096|1|1 Blissbringer|
+1973|4096|2|2-5 Fiends|
+1974|4097|1|1 Keeper of Secrets|
+1975|4098|1|1 Heartseeker|
+1976|4098|2|4-9 Seekers|
+1977|4099|1|1 Disharmonist|
+1978|4099|2|5 Noise Marines|
+1979|4100|1|1 Tormentbringer|
+1980|4101|1|1-2 Hellflayers|
+1981|4102|1|1 Karanak|
+1982|4103|1|1 Slaughterbound|
+1983|4104|1|1 Skarbrand|
+1984|4105|1|1 Bloodthirster|
+1985|4106|1|1 Bloodreaper|
+1986|4106|2|9 Bloodletters|
+1987|4107|1|1 Bloodhunter|
+1988|4107|2|2-5 Bloodcrushers|
+1989|4108|1|1 Gore Hound|
+1990|4108|2|4-9 Flesh Hounds|
+1991|4109|1|1 Lord of Poxes|
+1992|4110|1|1 Foetid Bloat-drone|
+1993|4111|1|1 Rotigus|
+1994|4112|1|1 Great Unclean One|
+1995|4113|1|1 Plagueridden|
+1996|4113|2|9 Plaguebearers|
+1997|4114|1|1 Plaguebringer|
+1998|4114|2|2-5 Plague Drones|
+1999|4115|1|1-2 Beasts of Nurgle|
+2000|4116|1|3-6 Nurgling Swarms|
+2001|4117|1|1 Ravener Prime|
+2002|4117|2|4 Raveners|
+2003|4118|1|1 Ravener Prime|
+2004|4118|2|4 Raveners|
+2005|4119|1|1 Servitor Underseer|
+2006|4119|2|2 Gun Servitors|
+2007|4119|3|6 Combat Servitors|
+2008|4120|1|1 Daemon Prince of Tzeentch with Wings|
+2009|4121|1|2-4 Sekhetar Robots|
+2010|4122|1|1 Aviarch|
+2011|4122|2|2-5 Enlightened|
+2012|4123|1|1 Kairos Fateweaver|
+2013|4124|1|1 Lord of Change|
+2014|4125|1|1 Pyrocaster|
+2015|4125|2|2-5 Flamers|
+2016|4126|1|3-6 Screamers|
+2017|4127|1|10 Pink Horrors|
+2018|4128|1|10 Blue Horrors|
+2019|4129|1|1 Wolf Priest|
+2020|4130|1|1 Wolf Guard Battle Leader|
+2021|4131|1|3-6 Wolf Guard Headtakers|
+2022|4131|2|0-6 Hunting Wolves|
+2023|4132|1|5-10 Wulfen|
+2024|4133|1|1 Wulfen Dreadnought|
+2025|4134|1|1 Knight Ruinator|
+2026|4135|1|1 Execrator|
+2027|4136|1|1 Crusade Ancient|
+2028|4137|1|1 Sternguard Veteran Squad Leader|
+2029|4137|2|4-9 Sternguard Veterans|
+2030|4138|1|1 Terminator Squad Leader|
+2031|4138|2|4-9 Terminators|
+2032|4139|1|1 Land Raider Crusader|
+2033|4140|1|1 Buri Aegnirssen|
+2034|4141|1|1 Memnyr Strategist|
+2035|4142|1|1 Arkanyst Evaluator|
+2036|4143|1|1 Steeljack Theyn|
+2037|4143|2|2-5 Ironkin Steeljacks|
+2038|4144|1|1 Steeljack Theyn|
+2039|4144|2|2-5 Ironkin Steeljacks|
+2040|4145|1|2 Cthonian Earthshakers|
+2041|4146|1|1-2 Kapricus Defenders|
+2042|4147|1|1 Kapricus Carrier|
+2043|4148|1|1 Aethon Shaan|
+2044|4149|1|1 Knight Defender|
+2045|4150|1|1 Greater Daemon|
+2046|4151|1|10 Lesser Daemons|
+2047|4152|1|2-4 Abominations|
+2048|4153|1|3-6 Daemonic Beasts|
+2049|4154|1|1 Sword Brother|
+2050|4154|2|4-9 Initiates|
+2051|4154|3|0-10 Neophytes|
+2052|4155|1|1 Lady Malys|
+2053|4156|1|1 Kabalite Archsybarite|
+2054|4156|2|9 Kabalite Agents|
+2055|4157|1|1 Solarite|
+2056|4157|2|4 Scourges|
+2057|4158|1|1 Death Jester|
+2058|4159|1|1 Shadowseer|
+2059|4160|1|1 Solitaire|
+2060|4161|1|1 Troupe Master|
+2061|4162|1|1 Starweaver|
+2062|4163|1|2-4 Skyweavers|
+2063|4164|1|1 Lead Player|
+2064|4164|2|4-11 Players|
+2065|4165|1|1 Voidweaver|
+2066|4166|1|1 Caanok Var|
+2067|4167|1|1 Suboden Khan|
+2068|4168|1|1 Voidreaver Felarch|
+2069|4168|2|4-9 Corsair Voidreavers|
+2070|4169|1|This unit can contain a maximum of 10 models.|
+2071|4169|2|1 Voidscarred Felarch|
+2072|4169|3|4-9 Corsair Voidscarred|
+2073|4169|4|0-1 Shade Runner|
+2074|4169|5|0-1 Soul Weaver|
+2075|4169|6|0-1 Way Seeker|
+2076|4170|1|0-1 Cloud Dancer Felarch|
+2077|4170|2|3-6 Corsair Cloud Dancers|
+2078|4171|1|0-1 Corsair Reaver Felarch|
+2079|4171|2|5-10 Corsair Reavers|
+2080|4172|1|0-1 Corsair Skyreaver Felarch|
+2081|4172|2|5-10 Corsair Skyreavers|
+2082|4173|1|1 Inquisitor Ostromandeus|
+2083|4173|2|1 Stentor-I-52|
+2084|4174|1|1 Kill Team Sergeant|
+2085|4174|2|1 Gravis Veteran|
+2086|4174|3|3 Deathwatch Veterans|
+2087|4174|4|OR|
+2088|4174|5|1 Kill Team Sergeant|
+2089|4174|6|2 Gravis Veterans|
+2090|4174|7|7 Deathwatch Veterans|
+2091|4175|1|1 Kill Team Sergeant|
+2092|4175|2|1 Gravis Veteran|
+2093|4175|3|3 Deathwatch Veterans|
+2094|4175|4|OR|
+2095|4175|5|1 Kill Team Sergeant|
+2096|4175|6|2 Gravis Veterans|
+2097|4175|7|7 Deathwatch Veterans|
+2098|4176|1|5 Canoptek Macrocytes|
+2099|4177|1|2 Canoptek Tomb Crawlers|
+2100|4178|1|1 Geomancer|
+2101|4179|1|1 Judiciar Xacharus|
+2102|4180|1|1 Chaplain Kastiel|

@@ -1,0 +1,7 @@
+from flask_wtf import FlaskForm
+# add SelectField
+from wtforms import SelectField
+import BoardingActions
+
+class SimpleForm(FlaskForm):
+    detachments = SelectField(u'Detachments', choices = BoardingActions.detats)

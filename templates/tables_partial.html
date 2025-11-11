@@ -1,0 +1,6 @@
+{% for header, table in tables %}
+<h2>{{ header }}</h2>
+<div style="display: flex; justify-content: flex-start;">
+    {{ table|safe }}
+</div>
+{% endfor %}
