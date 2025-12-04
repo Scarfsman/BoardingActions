@@ -63,6 +63,7 @@ def update_selections(id, action):
     global selected_Units 
     #get the value counts of the units we've selected, then check if we've selected this unit before
     counts = selected_Units['id'].value_counts()
+    count = 0
     if action == 'plus':
         unitlimit = musteringRulesDF[musteringRulesDF['Unit'] == int(id)]['Unit Limit'].iloc[0]
         potlimit = musteringRulesDF[musteringRulesDF['Unit'] == int(id)]['Pot Limit'].iloc[0]
@@ -73,15 +74,11 @@ def update_selections(id, action):
             if (count < unitlimit) and ((potlimit<0) or (potCount<potlimit)):
                 addUnit(id)
                 count = selected_Units['id'].value_counts()[id]
-            return count, selected_Units.to_html(classes='data', index=False, border=0, escape = False)
         else:
             #if the unit isn't in the list then we can select it
             if (potlimit<0) or (potCount<potlimit):
                 addUnit(id)
                 count = selected_Units['id'].value_counts()[id]
-                return count, selected_Units.to_html(classes='data', index=False, border=0, escape = False)
-            else:
-                return 0, selected_Units.to_html(classes='data', index=False, border=0, escape = False)
         #if we dont meet either condition, return the curretn values
     else:
         if id in counts:
@@ -93,10 +90,7 @@ def update_selections(id, action):
             counts = selected_Units['id'].value_counts()
             if id in counts:
                 count = selected_Units['id'].value_counts()[id]
-            else:
-                count = 0
-            return count, selected_Units.to_html(classes='data', index=False, border=0, escape = False)
-        return 0, selected_Units.to_html(classes='data', index=False, border=0, escape = False)
+    return count, selected_Units.to_html(classes='data', index=False, border=0, escape = False)
         
     
 
@@ -130,7 +124,6 @@ for row, line in enumerate(krootDF['description']):
         print(weapon)
         weaponString += str(WeaponDict[WeaponDict['name'] == weapon][weaponsCols]) + "; "
     newRow.append(weaponString)
-
     #append the colected data
     data.append(newRow)
     

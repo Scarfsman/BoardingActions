@@ -20,7 +20,7 @@ def index():
 def get_tables():
     selected = request.form.get('detachment')
     headers, dataTable, tables_html = BoardingActions.getTables(int(selected))
-    selected_Units = pd.DataFrame(columns=[['Unit Name'], ['Quantity'], ['Points']])
+    selected_Units = zip(['Test'], [pd.DataFrame(columns=[['Unit Name'], ['Quantity'], ['Points']])])
     # Zip headers and tables into a single iterable
     tables = list(zip(headers, tables_html))
     
